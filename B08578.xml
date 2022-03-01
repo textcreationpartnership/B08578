@@ -1,0 +1,1711 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarm to all impenitent [s]inners. Or, [T]he spirit of bondage raised up in judgement and allayed in mercy. [D]eclared in a short treatise of the sweetnesse of God's love discovered in the bitterness of his wrath. / [B]y Humphrey Browne ...</title>
+            <author>Browne, H. (Humphrey)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08578</idno>
+            <idno type="OCLC"> 80921996</idno>
+            <idno type="STC">Wing B5114A</idno>
+            <idno type="STC">ESTC R173186</idno>
+            <idno type="EEBO-CITATION">80921996</idno>
+            <idno type="OCLC">ocm 80921996</idno>
+            <idno type="VID">191815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191815)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2890:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarm to all impenitent [s]inners. Or, [T]he spirit of bondage raised up in judgement and allayed in mercy. [D]eclared in a short treatise of the sweetnesse of God's love discovered in the bitterness of his wrath. / [B]y Humphrey Browne ...</title>
+                  <author>Browne, H. (Humphrey)</author>
+               </titleStmt>
+               <extent>[8], 79 p.   </extent>
+               <publicationStmt>
+                  <publisher>[Prin]ted for Edw. Blackmore ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M. DC. L. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in the Peterborough Cathedral.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191815:1"/>
+            <pb facs="tcp:191815:1" rendition="simple:additions"/>
+            <p>AN ALARM To all Impenitent SINNERS.</p>
+            <p>OR, The Spirit of Bondage raiſed up in Judge<g ref="char:EOLhyphen"/>ment and allayed in Mercy.</p>
+            <p>Declared in a ſhort Treatiſe of the ſweet<g ref="char:EOLhyphen"/>neſſe of God's love diſcovered in the bitterneſs of his wrath.</p>
+            <p>By <hi>Humphrey Browne,</hi> M. A.</p>
+            <q>
+               <p>Confeſſio eſt ſalus animarum: diſſipatrix vitic<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: oppugnatrix daemonum: Quid plura? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruit os inferni, portas aperit Paradiſi. <bibl>
+                     <hi>Auguſtin. in Lib. de paenit.</hi>
+                  </bibl>
+               </p>
+               <bibl>Lam. 3. 19, 20, 21.</bibl>
+               <p>Remembring mine affliction and my miſery, the wormwood and the gall. My ſoul hath them ſtill in remembrance, and is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbled in me. This I recall to mind, therefore have I hope.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edw. Blackmore,</hi> and are to be ſold at the Signe of the <hi>Angel</hi> in <hi>Pauls</hi> Church-yard, <hi>M. DC. L.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:191815:2"/>
+            <pb facs="tcp:191815:2"/>
+            <head>The Author to the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great Phyſitian of our ſoules, doth often cure the ſore of ſin, by the ſence of ſin: and makes his Patients <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rize the greatneſſe of the remedy, by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e grievouſneſſe of the diſeaſe. Our<note place="margin">Quàm dives<g ref="char:EOLunhyphen"/>es in miſeri<g ref="char:EOLhyphen"/>cordia, quàm magnificus in juſtitia, quàm munificus in gratia, Domi<g ref="char:EOLhyphen"/>ne Deus no<g ref="char:EOLhyphen"/>ſter? non eſt qui ſimilis fit tibi. <hi>Bern.</hi> Serm. 57.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavenly Father makes his children <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſte the bitterneſſe of his wrath, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey may the more admire the ſweet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe of his loving kindneſſe; he ſuf<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers them to be almoſt drowned, in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he raging Sea of the one, that they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be ſaved in the Arke of the o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er. Behold therefore the goodneſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſeverity of God: On them which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſeverity, but towards me good<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe, if I continue in my goodneſſe: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>therwiſe I alſo ſhall be cut off, as
+<pb facs="tcp:191815:3"/> indeed of late I was verily perſwad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Rom. 11. 22.</note> I ſhould have been; for being a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Taverne in <hi>London,</hi> where too o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ten<note place="margin">Ebrietas ma<g ref="char:EOLhyphen"/>nifeſtiſſimus eſt Daemon. <hi>Bern.</hi>
+               </note> drunkenneſſe that moſt manif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Devil keeps his Randezvous, I pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed with an acquaintance of mine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tables, for a pinte of Sack, but wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a while doubling our files, we b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gan<note place="margin">Ira furor bre<g ref="char:EOLhyphen"/>vis eſt.</note> to quarrell; whereupon my re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſon, and that ſmall Religion whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I had, was overcome with unru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſion; I wiſht the Devill mig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have my ſoul, if I did not fight wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him the next morning, and kill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be killed: but mine own wrath w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not long over, before Gods wra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> overtooke me: for the thought <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that abominable execration, did <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trouble me, that I knew not w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whether I were in Hell, or Hell in m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the fearfull roaring of that one ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt me, brought all my other ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with gaſtly looks to gaze upon m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> As the woman of <hi>Samaria</hi> concer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing<note place="margin">John 4. 29.</note> Christ, ſo I may ſay of my co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191815:3"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, it told me al the ſins that ever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommitted: and preſented them un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me in the ugly picture of Devils, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich before I looked on in the form <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Angels; as before they ſeemed to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y palate all honey, ſo in the anguiſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my ſoul they were all ſting. I ſaw <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine ſit on the brow of Gods offend<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soveraignty, each look ſparkled <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dignation, and that indignation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath: there was a storme in Gods <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untenance, and a tempeſt in mine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n heart and tongue, crying out, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hell, and damnatinn, as my por<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on; ſuppoſing my ſelf to have no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terest at all in Chriſt. No Cordiall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f mercy could work on my Nauſeous <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omach: no Goſpel-phyſick could I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake, in thoſe raging Dog-daies of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny ſpiritual diſtempers; wherein I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounted my ſelf a Dog, ſhut out of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaven, and onely fit for the kennell<note place="margin">Rev. 22. 15.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f hell: but at laſt, being often viſit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, by my worthy, and much honour<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d friend <hi>Mr Blakemore,</hi> Pastor
+<pb facs="tcp:191815:4"/> of <hi>S. Peters Cornhill,</hi> the pulſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my conſcience began to beat mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mildly, being touched with the han<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of mercy. <hi>Proſpera lux oritur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Proſpera lux oritur linguis animiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fave<g ref="char:EOLhyphen"/>te: nunc di<g ref="char:EOLhyphen"/>cenda bono ſunt bona ver<g ref="char:EOLhyphen"/>ba die. <hi>Ovid. Faſt.</hi> l. 1.</note> light proceeded out of darkneſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joy out of ſorrow: comfort out o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſpaire: and as I may ſay, Heave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of Hell. God my mercifull Fathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſcourg'd me, I cryed bitterly, crying he heard me, and hearing, he com<g ref="char:EOLhyphen"/>forted me: he continued not long in his dreadful poſture of warre, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> condeſcended to a treatie, making (a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I truſt) a perpetuall peace with my ſoule. Wherefore I will praiſe thee O Lord among the people: for thy<note place="margin">Pſal. 108. 3, 4.</note> mercy is great above the heavens<g ref="char:punc">▪</g> and thy truth reacheth unto the clouds. The Lord is my portion,<note place="margin">Lam. 3. 24, 25.</note> ſaith my ſoule, therefore will I hope in him. The Lord is good unto them that wait for him, to the ſoul that<note place="margin">Dan. 9. 3.</note> ſeeketh him. Set your face therefore (Deare Chriſtian friends) unto the Lord God, by prayer and ſupplica<g ref="char:EOLhyphen"/>tion.
+<pb facs="tcp:191815:4"/> And if any good ſhall accrue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o you out of theſe my poore endea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, let Gods have the praiſe, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your prayers that I may grow in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace, and in the knowledge of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, and Saviour Jeſus Chriſt:<note place="margin">2 Pet. 3. 8.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o I hope will perfect that which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath begun that, I ſuffer not ſhip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ack<note place="margin">Domine quod coepiſti per<g ref="char:EOLhyphen"/>fice ne in portu nanfra<g ref="char:EOLhyphen"/>gium accidat. <hi>Aug. Phil. 4. 8.</hi>
+               </note> in the heaven.</p>
+            <p>Finally, brethren, whatſoever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings are true, whatſoever things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e honest, whatſoever things are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, whatſoever things are pure, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hatſoever things are lovely, what<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oever things are of good report: if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here be any vertue, and if there be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny praiſe, thinke on theſe things: And the grace of our Lord Jeſus Christ be with you all.</p>
+            <closer>Amen.</closer>
+            <closer>
+               <signed>Yours in Chriſt Jeſus, H. BROWNE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191815:5"/>
+            <pb n="1" facs="tcp:191815:5"/>
+            <head>AN ALARME TO ALL Impenitent Sinners.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen a man hath not bluſhed, at the qu. of Satans temptati<g ref="char:EOLhyphen"/>on, to come on the Stage as a ſinner; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thinkes he ſhould not be a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amed of publique view, when <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſcene is changed, and the part <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a convert acted: for ſo to do, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere in this, to cloud the glory of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercy, as in the other, to pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the rigour of juſtice: and<note place="margin">Jer. 3. 3.</note> have a whores fore-head in ſin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, though a virgins baſhful<g ref="char:EOLhyphen"/>neſſe
+<pb n="2" facs="tcp:191815:6"/> in confeſſing, for mine ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part therefore, as declaring m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Iſa. 3. 9.</note> ſin as <hi>Sodom,</hi> was to me a Com<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>die, ſo to declare Gods merc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in my longed-for reformation ſhall not be to me a Tragedie but rather the old man's <hi>Exi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Pſal. 7. 13.</note> with the inſtruments of death and the new mans <hi>Intrat,</hi> wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Iſa. 38. 20.</note> the ſtringed inſtruments, ſoun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing by the finger of the holy ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rit, ſhall be to me the ſweete ſoul-raviſhing muſick, mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfortable then <hi>Davids</hi> Harp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">1 Sam. 16.</note> to <hi>Saul,</hi> poſſeſſed with an ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirit, and if in declaring God goodneſſe to me, I act to plea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my heavenly Spectator, I have m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reward: I ſeek not the applau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of any, but the happy converſio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all, who hug ſin in their hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with as great danger, as the <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cedemonian</hi>
+               <note place="margin">
+                  <hi>Plutarch.</hi> Quod durum pati meminiſ<g ref="char:EOLhyphen"/>ſe dulce. Sen. in Hero. fur.</note> boy did his fox; <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when I remember mine afflictio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and my miſery, the wormwood, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:191815:6"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eg all,</hi> Lam. 3. 19. mine afflicti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n is renewed, to recount the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſery of a ſinner, without the<note place="margin">
+                  <hi>Chryſ.</hi> in Pſal. 50. Paenitens de peccato dolet &amp; de dolore gaudet Aug.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omfort of a Saviour, <hi>ſi mihi ſint <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntum linguae,</hi> I could not ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſſe it: for I know by the pulſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f mine own conſcience, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earful agonies of a ſick ſoul, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ung with the ſence of ſin: <hi>con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ientia peccati formidinis mater:</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e conſcience of ſin is the mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of fear: and albeit to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odly, it be faire, yet it preſents <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arful phantaſies, and hideous <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectacles, to the eyes of ſinful <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ules.</p>
+            <p>This I know, by a late woful, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyful experience, I call it ſo; be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe (bleſſed be God) it proved <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a bitter-ſweet unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: But firſt of the bitterneſſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd then of the ſweetneſſe.</p>
+            <p>Saint <hi>Bernard</hi> makes mention <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f a four-fold conſcience: firſt, conſcience quiet, and good, as
+<pb n="4" facs="tcp:191815:7"/> 1 <hi>Tim. 1. 5. and this is a continu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feast,</hi> Prov. 15. 15. Secondly, conſcience good, but not quie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and this was <hi>Davids</hi> caſe, in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> complaint thus, <hi>Thou hast la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me in the loweſt pit, in darkneſſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the deeps: Thy wrath lieth hard u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 88. 6, 7;</note> 
+               <hi>on me: and thou haſt afflicted <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with all thy waves.</hi> Thirdly, conſcience quiet, but not good and ſuch a one hath he, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearing the words of the curſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſſeth himſelf in his heart, ſay<g ref="char:EOLunhyphen"/>ing, <hi>I ſhall have peace, though I wal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the imagination of mine heart, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Deut. 29. 19.</note> 
+               <hi>adde drunkenneſs to thirſt: O qua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ta tempeſtas est haec tranquillitas</hi> what a tempeſt is this calme what a war is this peace? for the that thus would have a peace make a truce without the Broad ſeal of the King of kings: are n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Hoſ. 4. 17.</note> better then Rebels, and ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well expect his fearful march a<g ref="char:EOLunhyphen"/>gainſt them: though his marc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:191815:7"/> the longer, his aſſault will be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fiercer; the longer the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aught, the ſtronger the ſhoot<g ref="char:punc">▪</g> ſetling on our lees of ſin, we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Gods dregs of fury, he that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeps long in the pleaſures of ſin <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earth, may ('tis to be feared)<note place="margin">Saepe quem tentationis certamen ſu<g ref="char:EOLhyphen"/>perare non valuit, ſua de<g ref="char:EOLhyphen"/>terius ſecuri<g ref="char:EOLhyphen"/>tas ſtravit. Greg. Moral.</note> wake in the paines of hell: find<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g thorney thickets of ſharpeſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrows, for roſie beds of his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeteſt pleaſures.</p>
+            <p n="4">4. a conſcience neither quiet; or good; and this was my caſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the book of my conſcience <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as opened, and all my ſins in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apitall letters, were read by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye of my wofull ſoul. And then ſinfull I, according to the Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents of thoſe records, gave ſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of damnation on my ſelf.<note place="margin">Iob. 7. 15. Ier. 8. 3. Iob. 15. 16.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſoul choſe ſtrangling, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath rather then my life. I that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore had drunk iniquity, like <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ater, as <hi>Job</hi> ſpeaks, do behold <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtly a torrent of divine wrath,
+<pb n="6" facs="tcp:191815:8"/> ready to overwhelme me: t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> waters of <hi>Marah</hi> compaſſe the litle Iſle of man in m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> round about: and no fre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtreames of Heavenly conſolat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on, could paſſe through the ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sea of theſe helliſh terrours: a the ſtreames of my vaine world<g ref="char:EOLunhyphen"/>ly pleaſures, in the Channell <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſumtion, emptied themſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the gulph of deſpaire, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the river <hi>Jordan</hi> into the dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sea. Then, O then I found a<note place="margin">
+                  <hi>Epheſ. 4. 22. 1 Tim. 6. 9. Horat. 1. ep.</hi> ad Lollium. Malorum eſca voluptas. Cato. Major.</note> my former pleaſures, to be b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deceitfull luſts, fooliſh an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hurtfull luſts, according to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>Poet, Sperne voluptates nocet empta dolore voluptas</hi> de<g ref="char:EOLunhyphen"/>ſpiſe pleaſures: pleaſure purcha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed with griefe, is hurtfull, if an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pleaſure was purchaſed wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grief, ſurely mine was, for whil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I with it as Satans Engine, ruſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like an unruly horſe, into th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> battell of rebellion, againſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:191815:8"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>cred Majeſty of my God, he<note place="margin">Iob. 6. 4.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercifull King, being provoked, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts his terrors in array againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, maſters up all my ſins, before <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y face, as threatning to cut <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e off, with my own formerly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eloved, but now terrible par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, even my tranſgreſſions; nay <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore, the high and mighty Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Hoſts, diſcharges in a ful vol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey, all the roaring Canons of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is irefull and direfull menaces <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt me, inſomuch that the weak bulwarke of all my hope, was ſoon battered down: &amp; then I hope-leſs, help-leſs wretch, found by woefull experience, that the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins of Preachers, were not only the Preachers of ſins, to others, but alſo of moſt heavie judge<g ref="char:EOLhyphen"/>ments to themſelves. Then I found that I had onely ſpoke for <hi>Jeruſalem,</hi> but wrought for the building up of <hi>Jericho,</hi> &amp; <hi>Babylon:</hi> then I found that I had ſailed by
+<pb n="8" facs="tcp:191815:9"/> Satans compaſſe, &amp; not Gods; b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the falſe light of his deluſion, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not by the Pole-ſtarre of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Rev: 4. 6.</note> grace, on this Sea of glaſſe, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world: which made the Sou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhip-wrack by me, cry out a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 'twere in my ears, for vengeance againſt my ſoul, caſt on the Syrte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a moſt ſad condition: as <hi>Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Timothie, in Aſia were preſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">2 Cor: 1. 8.</note> 
+               <hi>out of meaſure above ſtrength: in<g ref="char:EOLunhyphen"/>ſomuch that they deſpaired of lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> naturall: ſo I was ſo preſſed with the burthen of my ſins, above m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrength, that I even deſpair<g ref="char:EOLhyphen"/>ed of life eternall, and yet de<g ref="char:EOLhyphen"/>ſpiſed life naturall, deſiring (a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I may ſay) to die, if there were no heaven, who lived as if there were no hell. Such an horrour overwhelmed me, ſuch a hor<g ref="char:EOLhyphen"/>rour<note place="margin">Pſal: 55. 5.</note> laid hold upon me, that as before I lived as if there were no law, no juſtice; ſo now I lay as if there were no Goſpel no mercie.</p>
+            <pb n="9" facs="tcp:191815:9"/>
+            <p>My ſins that cloud of wit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſes<note place="margin">Dicit quidem <hi>Plato</hi> animas hominum dae<g ref="char:EOLhyphen"/>mones eſſe, &amp;c. Aug. de civit. Dei l. 9. c. 11.</note> againſt me, did ſo hinder <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Sunſhine of Gods favour <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom me, that I beheld the Sun <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f divine juſtice, without any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eames of mercy: ſo that I con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eived my ſoul to be no better <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen a Devil, in my body; as <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lato</hi> held the ſouls of men, to be Devils ſeparated from the body, whereas a ſanctified ſoul is as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>were a certain God, dwelling <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a humane body, or a heavenly<note place="margin">Anima Deus eſt aliquis hu<g ref="char:EOLhyphen"/>mano corpore vivens Sen. ad Sunil. Epiſt 3.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, taking up his manſion in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arthly cottage.</p>
+            <p>Oh, ſuch bitter things were written againſt me, by the pen of Gods juſtice, dipt in the gall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd vineger of his ſore diſplea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure, that I then poſſeſſed the in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quities<note place="margin">Job. 13. 26. Dan. 5.</note> of my youth; which made me tremble, as <hi>Belſhazzar,</hi> at the hand-writing. Me thoughts I read alſo, <hi>Mene Mene Tekel <g ref="char:V">Ʋ</g>phar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in:</hi> I was weighed in the bal<g ref="char:EOLhyphen"/>lance
+<pb n="10" facs="tcp:191815:10"/> and found wanting, eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of true zeal and pietie, whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> crownes Chriſt miniſtry. I look<g ref="char:EOLunhyphen"/>ed therefore on the kingdom o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heaven, as divided from me; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">M. <hi>Blackmore.</hi>
+               </note> on hell as my right inheritance inſomuch that when a learne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Godly miniſter of <hi>London,</hi> (fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom I am bound to praiſe God came to viſit me, in my extremi<g ref="char:EOLunhyphen"/>tie, and deſired like the goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Samaritan</hi> to powre in oyl o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Luke 10.</note> comfort, into my wounded con<g ref="char:EOLhyphen"/>ſcience, it ſwimmed (as I may ſay on the top of the overflowing of mine iniquitie: and neve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> touched my conſcience, as a re<g ref="char:EOLunhyphen"/>medie. All Goſpel-ſalves wer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to me corroſives: God's woun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though the mildeſt, was to me <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſword; ſuch ſinfull malignan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> humours did ſo over-charge th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtomach of my ſoul; that the brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of life could not be diſgeſted by me, as any thing nouriſhable unto
+<pb n="11" facs="tcp:191815:10"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. I looked on my ſelfe as no<note place="margin">Magna eſt vis conſcientiae in utram<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> partem: ut ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> timeant qui nihil com<g ref="char:EOLhyphen"/>miſerint: &amp; paenam ſem<g ref="char:EOLhyphen"/>per ante oc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>los verſari pu<g ref="char:EOLhyphen"/>tent qui pec<g ref="char:EOLhyphen"/>caverint. <hi>Cato</hi> major<g ref="char:punc">▪</g> pro Milone.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raelite,</hi> and therefore I could <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot relliſh that Sacred Manna. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Scriptures are Gods Armou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, wherein are weapons both <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffenſive, and defenſive: but alas, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the weapons therein were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffenſive unto me, in that ſad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſertion; ſo focible was my con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cience, in terrifying me, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſword of Gods vengeance <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dged by my diſobedience, was drawn before my face, covered with confuſion. Then I who <hi>Jehu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike</hi> marched furiouſly in the broad way, in this woefull ſtreight I lay down, roaring for terror, and yet not able to cry for quarter, to aſk for mercie; deeming or rather dooming my ſelfe (<hi>Spira</hi>-like) out of heavens protection, becauſe not within the lines of Chriſts communica<g ref="char:EOLhyphen"/>tion. The Schoolemen obſerve that a Child of God, may ſo fall,
+<pb n="12" facs="tcp:191815:11"/> that he may therein looſe <hi>aptitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dinem regnandi:</hi> the fitneſs of reigning: but never <hi>jus regni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the right of the kingdome: bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I poor Creature, ſeeing my ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſtitute, of the Royall Charte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of grace, ſhut my ſelf clean ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Citie of glory. I meaſure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my right by my aptitude, and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> found no place to enter, being fully perſwaded by the enemie<g ref="char:punc">▪</g> that I had loſt Chriſt, the way<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and herein the devil played the part of a cunning, deceitful<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Phyſitian, who recounts althing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that may endammage, not any thing that may recover his pati<g ref="char:EOLhyphen"/>ent.</p>
+            <p>A ſick patient indeed was I, and my ſickneſſe threatned even<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Baſil. 1 Sam. 2. 25.</hi>
+               </note> the very death of immortality: and who could entreat for me? As old <hi>Eli</hi> ſaid unto his wicked ſonnes, <hi>if one man ſin againſt ano<g ref="char:EOLhyphen"/>ther, the Judge ſtall judge him: but if
+<pb n="13" facs="tcp:191815:11"/> man ſin againſt the Lord who ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>treat for him?</hi> he goes the way <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſilence the mouth of the blood <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus; and loe then againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hom ſin is the Sollicitor in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourt of heaven, and for whom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt Jeſus is not the advocate, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt miſerable is the ſtate of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at man, moſt grievous is the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckneſſe of that ſoul: yea truely it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſoul of ſickneſſe, the whole<note place="margin">Iſa. 1. 5.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead is ſick, and the whole heart <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int.</p>
+            <p>I am ſure it is a fearefull thing<note place="margin">Heb. 10. 31.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o fal into the hands of the living God: nay, moſt fearfull it is, when we have not the wounded <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands of our Redeemer to hold <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s up: certainly then as preſum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion<note place="margin">Deſperatio homicida eſt animae. Aug.</note> was our heaven, deſpaire will be our hell; the one march<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng in the front, the other very <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ften brings up the arreare, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather falls upon it, routing all<note place="margin">in <hi>Pſal.</hi> 50. Serm. 6.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormer pleaſures, marſhalled by
+<pb n="14" facs="tcp:191815:12"/> preſumption: and ſlaying th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf-condemning ſoul; which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Iob. 7. 20.</note> as a marke ſet againſt God, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a burden to it ſelfe. We ſee i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Gen. 4.</note> exemplified in <hi>Cain, Achitophe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">2 Sam. 17. 1 Chron. 10. Mat. 27.</note> 
+               <hi>Saul, Judas</hi> and the like: whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoules being appaled with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſenſe, and over-burdened wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the weight of their tranſgeſſions they deſpaired of the haven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſo caſt themſelves, into th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gulph. They that before, like <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhip with full ſaile, hoiſed up the Top-gallant of their pride<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; the ſailes of their affections to the poyſonous blaſts of Satan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> temptations, at laſt, like baſeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cowards, ſtrucke ſaile to the<note place="margin">Sceleratior omnibus ô Juda &amp; infeli<g ref="char:EOLhyphen"/>cior extitiſti: quem non paenitentia duxit ad Do<g ref="char:EOLhyphen"/>minu<g ref="char:cmbAbbrStroke">̄</g>: ſed de<g ref="char:EOLhyphen"/>ſperatio tra<g ref="char:EOLhyphen"/>xit ad laqueu<g ref="char:cmbAbbrStroke">̄</g>. Leo in Serm.</note> Prince of darkneſſe, who upon their totall ſubmiſſion, boarded the pinnace of their ſouls: and being a curſed Pyrat, from the beginning, robbed them of the precious jewel of their ſalvation, which is the onely prize he ſeeks
+<pb n="15" facs="tcp:191815:12"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or: as the King of <hi>Sodom</hi> ſaid un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Abraham, da mihi animas, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive me the ſouls, Gen.</hi> 14. 21. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch is the devils method, if he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath the ſoul, which is mans all, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath all his deſire accompliſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, as in <hi>Judas;</hi> who ſinned more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n deſpairing of mercie, then in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etraying his maſter, the Lord of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f life, to death.</p>
+            <p>Now in the fall of man. 1. the Devil tempts. 2. Man conſents. 8. God forſakes. Satan tempts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n malice, man conſents in weak<g ref="char:EOLhyphen"/>neſs, and God forſakes in juſtice. Neither is he abſent, where he ſeems to be a farre off: for where<note place="margin">Greg. Hom. 8. ſuper. Ezek.</note> he is not preſent <hi>per gratiam,</hi> by grace, he is <hi>per vendictam,</hi> by vengeance.</p>
+            <p>Oh, when the juſt Judge of heaven, and earth is preſent, in the laſt acception, then the Lord is known executing wrath, who was not known ſuffering wrong:
+<pb n="16" facs="tcp:191815:13"/> then his Scorpions are feare<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whoſe rods were ſlighted: h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſword is brandiſhed to a deſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ved ſlaughter, whoſe Scepte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> held out by the right hand <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> love, could not invite to a tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly ſubmiſſion. <hi>Then, Oh then, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Iſa. 47. 3.</note> 
+               <hi>nakedneſſe of a miſerable ſinn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall be uncovered: yea his ſham<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Iſa. 59. 17.</note> 
+               <hi>ſhall he ſeene: when God thus put on the garments of vengeance fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cloathing, and is clad with zea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as a cloak. Who can ſtand whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Ioh. 9. 5.</note> 
+               <hi>the anger of the Lord is kindled<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he overturneth the higheſt moun<g ref="char:EOLunhyphen"/>taines</hi>
+               <note place="margin">Hab. 3. 12.</note> 
+               <hi>in his anger. He threſhet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Iſa. 63. 6.</note> 
+               <hi>his enemies in anger: nay more, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> treadeth downe the people in his an<g ref="char:EOLhyphen"/>ger, and makes them drunk in his fury; and brings down their ſtrength</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Home<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> 
+               <hi>to the earth.</hi>
+            </p>
+            <p>God hath a revenging eye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (ſaith the blind heathen &amp;: where ſin is long in the ſoul, as a black cloud; no marvell, if the ſtorm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:191815:13"/> of vengance break forth in a<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ. Hom. 5. <hi>Iſa 33. 23. Job 9. 17. Iſa. 28. 2. Ier. 22. 28. Hoſe. 8. 8. Pſal. 83. 15.</hi>
+               </note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hunder-clap of fury; wherein the poor ſoul hath the tacklings looſed, cannot well ſtrengthen the maſt, neither is able to ſpread the ſaile, and therfore is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roken with the tempeſt as <hi>Job</hi> ſpeaks, Gods ſtorme is a deſtroy<g ref="char:EOLhyphen"/>ing ſtorm, as a flood of mighty waters overflowing it caſts down to the earth with the hand.</p>
+            <p>In this overflowing, all our pleaſures and vain delights ſinke; but our ſins do ſwim in full view to the ſhame and confuſi<g ref="char:EOLhyphen"/>on of our faces, who may juſtly be eſteemed in Gods ſight as veſ<g ref="char:EOLhyphen"/>ſels wherein is no pleaſure.</p>
+            <p>Such a one aſſuredly was I<g ref="char:punc">▪</g> when the moſt High thundred with his voice of diſpleaſure, perſecuted me with his tempeſt, and made me afraid with his ſtorme, I ſaw no pleaſure that
+<pb n="18" facs="tcp:191815:14"/> God had in me, neither had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any pleaſure in my ſelf, I could not but fall out with my ſelf, be<g ref="char:EOLunhyphen"/>cauſe I had falne out with my God; vile I was in the ſight o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others, but viler in mine own.</p>
+            <p>Terror without, and horro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> within, like <hi>Pharaohs</hi> lean kine, ſwallowed up all the fat kine o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Gen. 41.</note> my former Carnall delights <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which like the fair <hi>Nymphs</hi> in the <hi>Poets,</hi> brought forth the fowle Satyres of fierce wrath, trouble of an evil conſcience, and deſpair of Gods mercie: conceiving it to be unprofitable to knock at the door, or wait at the pool, but be<g ref="char:EOLhyphen"/>hold, <hi>I that was thus afflicted, toſ<g ref="char:EOLhyphen"/>ſed</hi>
+               <note place="margin">Iſa. 54. 11.</note> 
+               <hi>with tempeſt and not comforted, beh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld with the eye of faith a Savi<g ref="char:EOLhyphen"/>our, preſenting himſelf as a Covert of mercie, from</hi> the ſtorm of in<g ref="char:EOLhyphen"/>cenſed Majeſtie. Though the cry of my ſins were great at the dreadfull Tribunall, yet the cry
+<pb n="19" facs="tcp:191815:14"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f my Redeemers blood was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reater, at the Throne of grace: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here it did awake mercie, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled wrath a ſleepe, ſo that I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill ſing of mercy and judge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, unto thee O Lord wil I ſing.<note place="margin">Pſa. 101. 1 Lam. 3. 22.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is of the Lords mercies that I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m not conſumed, becauſe his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompaſſions faile not.</p>
+            <p>It is ſaid, where the <hi>Philoſopher</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds the Phyſician begins; ſo where humane reaſon and fleſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y wiſdome was Non-pluſt in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he without hope of remedie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he bleſſed Phyſician of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls (teaching me that Gods Metaphyſickes are above mans <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogick) ſpeaks to me with heal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g Aphoriſms of mercie, ſaying <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n effect: for a ſmal moment have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forſaken thee, but with great<note place="margin">Iſa. 54. 7. 8.</note> mercies will I gather thee. In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> litle wrath I hid my face from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hee, for a moment; but with e<g ref="char:EOLhyphen"/>verlaſting kindneſſe will I have
+<pb n="20" facs="tcp:191815:15"/> mercie on thee, ſaith the Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Redeemer.</p>
+            <p>
+               <hi>But ſtay, doth a fountaine ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Iam. 3. 11.</note> 
+               <hi>forth at the ſame place ſweet wat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and bitter? Yes, ſweet ſtreams <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mercie, and bitter ſtreams of j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>stice, flow both from the ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fountain of grace and glory.</hi>
+            </p>
+            <p>Out of the ſame Throne pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceed<note place="margin">Rev. 4. 5.</note> lightnings of Gods wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thundrings of his judgement<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and voices of his mercie: whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">verſe. 3.</note> are evermore ſhrill in faithfu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eares. The Rainbow about th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Throne, the Covenant of gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is ſtill viſible in the Horizon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Saints; though happily <hi>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beculae quaedam,</hi> ſome thin clou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may interpoſe.</p>
+            <p>When God is to ſhew merci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like the father of the Prodig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Currit,</hi> he runneth, as being wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, and rejoicing at it: but wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſhew his inward diſple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſure by his outward warlike p<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:191815:15"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure in judgement, <hi>ambulate,</hi> he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alketh, as at the caſting <hi>Adam</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Paradiſe being penſive &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſco<g ref="char:cmbAbbrStroke">̄</g>tented at it. He is even grie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed at the heart (as I may ſay) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen mans ſin as a fire burn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to deſtruction, will not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e quenched without the pow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng forth of the full vials of his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rath. Oh what a ſpring-tide <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f grief is in God, when he is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovoked to open the flud-gates <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his fury to waſh away the filth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f our abominations? his expo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tulation<note place="margin">Hoſe. 11. 8.</note> in the Prophet, is a gra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious proclamation of his tender mercies to the proudeſt Rebels: <hi>How ſhall I give the up,</hi> Ephraim? <hi>how ſhall I deliver thee,</hi> Iſrael? <hi>how ſhall I make thee as</hi> Admah? <hi>how ſhall I ſet thee as</hi> Zeboim? ſaith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord: who even ecchoes to his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oice with ſighs to this ſad tune, mine heart is turned within me, my repentings are kindled toge<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="22" facs="tcp:191815:16"/>
+            <p>Mercy and judgement ſeem ſtruggle in God, as <hi>Pharez</hi> &amp; <hi>Zar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Gen. 38.</note> did in the womb of <hi>Tamar:</hi> judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment like the one, with the ſkar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Deus cui pro<g ref="char:EOLhyphen"/>prium eſt mi ſereri, ex ſe miſerandi ſu<g ref="char:EOLhyphen"/>mit materiam: quod uutem condemnat, eum cogimus. Bern in Cant. Ger. 7.</note> thread of vengeance ſtretche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out the hand, but mercy plucks back, comes forth in triumph <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conquerour over judgement.</p>
+            <p>In that God ſheweth merci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is from a principle of love <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf; but in that he execut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judgement, is from a princip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of wickedneſſe in us: for he dot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not afflict willingly, nor griev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the children of men. <hi>I have n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Lam. 3. 33.</note> 
+               <hi>pleaſure in the death of him th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dieth, ſaith the Lord God:</hi> where<g ref="char:EOLunhyphen"/>fore<note place="margin">Ezek. 18. 32.</note> turne your ſelves, and liv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ye. <hi>Before the Lord of Hoſts wil giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the fierce aſsault,</hi> he offers afriend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly<note place="margin">Iſa. 1. 18.</note> parlee: as we read in the Pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>phet, <hi>Come now, and let us reaſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> together, ſaith the Lord.</hi> Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all Gods other attributes as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> formidable Army threaten mans<note place="margin">Jam. 2. 13.</note> ruine, mercie the ſweeteſt of al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:191815:16"/> Gods attributes, rejoicing a<g ref="char:EOLhyphen"/>gainſt<note place="margin">Pſal. 144. 4.</note> judgement, intercedes, deſires a treaty with man, who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s like to vanity, and whoſe dayes are as a ſhadow that paſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth away. The Father of mercies <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>angs out the white flagge, in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oken of grace and favour, if re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellious man will ſubmit; but if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will ſtill refuſe and rebell, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighting againſt the Lord, then<note place="margin">2 Chron. 13. 12</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Abijah</hi> ſaid to <hi>Iſrael,</hi> under the conduct of <hi>Jeroboam,</hi> he ſhall not<note place="margin">Vitiis patien<g ref="char:EOLhyphen"/>tia victa eſt. <hi>Ovid. Amor. 3.</hi>
+               </note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roſper: his obſtinacy overcomes Gods patience, which being abuſed turnes into fury, hangs out the red flagge of vengance in the day of wrath, trouble and diſtreſſe, waſtneſs and deſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, clouds and darkeneſſe. When terms of mercie are reje<g ref="char:EOLhyphen"/>cted, fire &amp; ſword muſt be expect<g ref="char:EOLhyphen"/>ed. The Lord of Hoſts in the day<note place="margin">Zephan. 1.</note> of the trumpet and alarm will bring obſtinate rebels to diſtreſs,
+<pb n="24" facs="tcp:191815:17"/> that they ſhall walke like blind men, becauſe they have ſinned againſt the Lord, and their blood ſhall be powred out as duſt, and their fleſh as the dung.</p>
+            <p>Woe unto him that ſtriveth<note place="margin">Iſa. 45. 9.</note> with his maker, ſaith the prophet: yet weak unworthy I, may now ſay, that I ſtrove with my ma<g ref="char:EOLhyphen"/>ker, wreſtled with him in the ſtrength of Jeſus, till I obtained a bleſſing, even ſuch a bleſſing as peace, to my troubled con<g ref="char:EOLhyphen"/>ſcience. His rod &amp; his ſtaff com<g ref="char:EOLhyphen"/>forted<note place="margin">Pſal. 24. 3.</note> me; as he did chaſtiſe me with his rod, ſo he did uphold me with his ſtaffe. God was to<note place="margin">Pſal. 84. 11.</note> me a ſunne and a ſhield, a ſunne of righteouſneſſe ariſing with<note place="margin">Mal. 4. 2.</note> healing in his wings: and a ſhield of ſalvation, to defend me from the aſſaults of my deadly foes, the world, the fleſh, and the devil: ſo that they being ſwal<g ref="char:EOLhyphen"/>lowed up in victory, the Lord
+<pb n="25" facs="tcp:191815:17"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſus triumph'd in mine heart: is invincible goodneſſe could<note place="margin">Bonitas invi<g ref="char:EOLhyphen"/>cti non vinci<g ref="char:EOLhyphen"/>tur, infiniti miſericordia uon finitur. <hi>Fulgent.</hi> Tota eſſentia Dei miſericordia. <hi>Bern.</hi>
+               </note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be overcome by my wicked<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe, neither would his infinite <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercie admit a period from my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nite miſerie: but as if he had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orgotten to be juſt, he came to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e (as I may ſay) with a ſweet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omplement of love; ſaying, O <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>infull ſoul thou haſt deſtroyed<note place="margin">Hoſe 13. 9.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy ſelf, but in me is thine help: according to the voice heard by Saint <hi>Auguſtine</hi> relying upon his<note place="margin">In vita <hi>Aug.</hi>
+               </note> own ſtrength, <hi>In te ſias, &amp; non ſtas,</hi> ſo long as I ſtood in my ſelf in mine own ſtrength, I fell; but as ſoone as I fell in the power of Jeſus, then I ſtood; ſo that I may<note place="margin">In vita <hi>Junii.</hi>
+               </note> ſay with <hi>Junius,</hi> Thou waſt mindfull of me O my God: ac<g ref="char:EOLhyphen"/>cording to the multitude of thy mercies, and calledſt home thy loſt ſheep into the fold.</p>
+            <p>I ran aſtray out of Gods field, into Satans incloſures; but the
+<pb n="26" facs="tcp:191815:18"/> great Shepheard of my ſoule, re<g ref="char:EOLhyphen"/>call'd me, as an object of his lo<g ref="char:EOLhyphen"/>ving kindneſs, who might have been a ſtory of his vengeance: therefore (by his aſſiſtance) will<note place="margin">Iſa. 12. 1.</note> I ſay, <hi>O Lord I will praiſe thee: thought thou waſt angry with me,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>thine anger is turned away, and thou comforteſt me. Where God is there is heaven: for in his preſence is the fullneſs of all joy, and at his right</hi>
+               <note place="margin">Pſal. 16. 11.</note> 
+               <hi>hand are pleaſures for evermore.</hi>
+               <note place="margin">Quicquid mi<g ref="char:EOLhyphen"/>hi vult dare Dominus me<g ref="char:EOLhyphen"/>us, auferat to<g ref="char:EOLhyphen"/>tum, &amp; ſe mi<g ref="char:EOLhyphen"/>hi det. <hi>Aug.</hi> in <hi>Pſal. 26.</hi>
+               </note> Nothing is ſweet beſides God: whatſoever the Lord will give me, let him take away all from me, and give himſelf to me.</p>
+            <p>It was the ſaying of one of King <hi>Cyrus</hi> his favourites, I care for nothing, <hi>Cyrus</hi> is my friend. better far may a ſanctified ſoule<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſay ſo of God, I care for nothing; yet I enjoy all things, becauſe God is my friend: in reſpect of whom I may ſay with <hi>Job</hi> to all my other friends, <hi>miſerable com<g ref="char:EOLhyphen"/>forters</hi>
+               <note place="margin">Job. 16. 2.</note> 
+               <hi>are ye all.</hi>
+            </p>
+            <pb n="27" facs="tcp:191815:18"/>
+            <p>Now God is a friend to none, but in and through Jeſus Chriſt: the Father embraceth none but ſuch as kiſs the Son with a kiſs of love and homage God me thinks<note place="margin">Pſal. 2. 12.</note> ſpeaks unto us as <hi>Joſeph</hi> to his brethren, <hi>Ye ſhall not ſee my face ex<g ref="char:EOLhyphen"/>cept</hi>
+               <note place="margin">Gen. 43. 3.</note> 
+               <hi>your brother be with you;</hi> ex<g ref="char:EOLhyphen"/>cept Jeſus our elder bother be with us, we cannot behold the ſmiling countenance of God, as a Father; though we may to our terror, behold his frowning look and auſtere, but as a Judge. Therfore, as the two Cherubims. <hi>Ex.</hi> 25. 20. looked one towards a<g ref="char:EOLhyphen"/>nother, but both towards the mer<g ref="char:EOLhyphen"/>cy-ſeat: So albeit we look (in this blaſphemous and licentious age) one towards another as being con<g ref="char:EOLhyphen"/>trary in judgement, yet we muſt al look towards Jeſus Chriſt, if we look for mercie: there is no mer<g ref="char:EOLhyphen"/>cie-ſeat but in him, <hi>God is no hear<g ref="char:EOLhyphen"/>ing God, no helping God at all with<g ref="char:EOLhyphen"/>out
+<pb n="28" facs="tcp:191815:19"/> him, for it pleaſed the Father</hi>
+               <note place="margin">Col. 1. 19. Col. 3. 11.</note> 
+               <hi>that in him ſhould all fulneſs dwell. He is all in all.</hi>
+            </p>
+            <p>God the Father is covered with a cloud, where the glorious beames of his Sonnes love have no reflection. Chriſts preſence turnes earth into Heaven: and without it, earth, nay Heaven it ſelf were a very Hell. A naturall man pitcheth his Tent in this ſublunary world, but a Spiritual man centred in Chriſt, ſoares higher: he is with Saint <hi>Paul</hi> caught up as 'twere into the third heaven: he is not where he is, but his love is where his Lord is; as <hi>Origen</hi> ſpeaks of <hi>Mary Mag<g ref="char:EOLhyphen"/>dalene</hi>
+               <note place="margin">Maria ibi non erat ubi erat; quia ibi tota erat, ubi Ma<g ref="char:EOLhyphen"/>giſter erat. <hi>Origen.</hi>
+               </note> ſeeking her Lord at the Sepulchre, ſuppoſing to have found the Lord of life, in the place of death.</p>
+            <p>
+               <hi>A precious ſoule whom Chriſt hath kiſſed with the kiſſes of his mouth,</hi> and betrothed unto himſelf in
+<pb n="29" facs="tcp:191815:19"/> righteouſneſs and in judgement,<note place="margin">Cant. 1. 2. Hoſe. 2. 19.</note> and in loving kindneſs, and in mercies; ſuch a one, I ſay, tram<g ref="char:EOLhyphen"/>ples<note place="margin">Cui Chriſtus incipit dul<g ref="char:EOLhyphen"/>ceſcere, neceſ<g ref="char:EOLhyphen"/>ſe eſt amare<g ref="char:EOLhyphen"/>ſcere mun<g ref="char:EOLhyphen"/>dum. <hi>Bern. Ser.</hi> in <hi>Cant.</hi>
+               </note> the world under foot, for having heavenly promiſes, he nothing regards earthly plea<g ref="char:EOLhyphen"/>ſures: though his worke be here below, yet his maſter and trea<g ref="char:EOLhyphen"/>ſure too are above: here onely is his pilgrimage; but there is his home, his inheritance, where he need feare no Councell of State, Committees or Sequeſtra<g ref="char:EOLhyphen"/>tors<note place="margin">Pſal. 125. 1.</note> to deſturbe him: no no, <hi>he ſhall be as mount Sion, which can<g ref="char:EOLhyphen"/>not be removed, but abideth for e<g ref="char:EOLhyphen"/>ver.</hi> His Saviour is his ſtrong tower and Caſtle of defence: he may not therefore fear the ſiege, no not the ſtorm of an enemie; though <hi>Hyaenae inſtar cadaveribus delectatur,</hi> he deligheth to give<note place="margin">Ambroſ. <hi>Pſal. 79. 2.</hi>
+               </note> the dead bodies of the Saints to be meate unto the fouls of the aire, and their fleſh unto the
+<pb n="30" facs="tcp:191815:20"/> beaſts of the earth.</p>
+            <p>Lift up thine heart then, O<note place="margin">Pſal. 38. 4.</note> thou afflicted ſoul, though thine iniquities are gone over thine head, and as an heavy burden, they are too heavy for thee: yet<note place="margin">Mat. 11. 28.</note> they are are not too heavie for him, who hath promiſed to eaſe thee; for as the Poets faine that <hi>Atlas</hi> bore heaven on his ſhoul<g ref="char:EOLhyphen"/>ders; thy Redeemer is willing to beare the hell of thy tranſgreſſi<g ref="char:EOLhyphen"/>ons on his heavenly ſhoulders. He ſweet Jeſus dranke the bitter cup of his Fathers wrath, that we might drink deep of the ſweet cup of his Fathers love; he was con<g ref="char:EOLhyphen"/>tented to drink vineger of grief here on earth, that we might drink<note place="margin">Mat. 26. 29.</note> new wine of glory, with him in the kingdom of his Father. As <hi>Marius</hi> being accuſed before the Roman Senate of treaſo<g ref="char:cmbAbbrStroke">̄</g> againſt the State, came and ſhewed his wounds, ſaying, <hi>quid verb a loquar? vulner a
+<pb n="31" facs="tcp:191815:20"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>quntur:</hi> why ſhould I uſe any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords unto you in my defence? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y wounds declare my love, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y blood as flowing Rhetorick <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay perſwade you to a firm be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ef of my loyalty: ſo the wounds <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Lord Jeſus demonſtrate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is love, <hi>quot vulner a tot ora,</hi> every <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound is a mouth to ſpeake how <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare and pretious we are in his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight. He trode the wine-preſſe<note place="margin">Iſa. 63. 3.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lone: he became the ſonne of man, deſpiſed, and rejected of men, a man of ſorrowes, and ac<g ref="char:EOLhyphen"/>quainted<note place="margin">Iſa. 53. 3.</note> with grief, that man mighr become the ſon of God; &amp; cry boldly, <hi>Abba Father:</hi> Where<note place="margin">Rom. 8. 15.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Apoſtle uſeth an <hi>Hebrew</hi> and <hi>Greeke</hi> word, both ſignifying the ſame thing, to ſhew that <hi>Jew</hi> and <hi>Gentile</hi> have no ſalvation but by the ſpirit of adoption, in and through Jeſus Chriſt.</p>
+            <p>Gods mercy is the Arke that ſaves us from drowning in the
+<pb n="32" facs="tcp:191815:21"/> deluge of deſtruction; but <hi>Vu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nus Chriſti, Ostium Arcae,</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Aug. de Civit. Dei. l. 15. c. 26.</note> wound of Chriſt is the door <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Ark: Chriſts merit is the do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Arke of Gods mercy, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his death is of greater efficacy t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Multo effica<g ref="char:EOLhyphen"/>cior Chriſti<g ref="char:EOLunhyphen"/>mors in bo<g ref="char:EOLhyphen"/>num, qua<g ref="char:cmbAbbrStroke">̄</g> pec<g ref="char:EOLhyphen"/>cata noſtra in malum, &amp;c. <hi>Bern.</hi>
+               </note> our good, then our ſins can be t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our hurt: he is more powerfu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſave, then Satan to deſtroy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his power and will both are i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> league, where he is in love.</p>
+            <p>O then, is any one ſick? her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Mat. 9. 12.</note> is phyſick for him: is any heart<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Cant. 2. 5.</note> faint? here are flagons of win<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to comfort him: Is any conſcienc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wounded? here is balme of <hi>Gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lead</hi> to heale it. The Lord dot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proclaim himſelf by the mout<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Jeſus to be mercifull and gra<g ref="char:EOLhyphen"/>cious,<note place="margin">Exod. 34. 6, 7.</note> long-ſuffering and abun<g ref="char:EOLhyphen"/>dant in goodneſſe and truth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> keeping mercie for thouſands forgiving iniquity, tranſgreſſion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſin. All our ſinnes are but as a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drop to the Ocean of Gods mer<g ref="char:EOLhyphen"/>cie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="33" facs="tcp:191815:21"/> ſaith <hi>Fulgentius.</hi>
+            </p>
+            <p>Yet, let no man preſume; for the ſame God is both a Savi<g ref="char:EOLhyphen"/>our and a judge, a Lion, as well as a Lambe, he doth not onely take away the ſinnes of penitent ſouls, in love, but he roars as fiercely againſt incorrigible ſin<g ref="char:EOLhyphen"/>ners, in wrath: his blood is a Red-Sea indeed; true Iſraelites onely are ſaved in it, but curſed <hi>Eypgtains</hi> are drowned, it is to the one a Sepulchre, to the other a Sanctuary.</p>
+            <p>He onely that believeth on<note place="margin">John 6. 47. Rev. 2. 10.</note> Chriſt. Hath everlaſting life by Chriſt. He onely that is faithfull unto death, ſhall receive a crown of life. Faith is the hand where<g ref="char:EOLhyphen"/>by we receive Gods bleſſings, and he that wants it, is like one that ſtands for an almes, and wants an hand to receive it.</p>
+            <p>O ſhew thy faith then by thy works, acquaint thy ſelf, more &amp;
+<pb n="34" facs="tcp:191815:22"/> more with thy redeemer, and be at peace, <hi>thereby everlasting good</hi>
+               <note place="margin">Job. 22. 21.</note> 
+               <hi>ſhall come unto thee.</hi> Come out o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Babylon,</hi> dwell no longer in <hi>Me<g ref="char:EOLhyphen"/>ſech,</hi> neither have thy habitation in the Tents of <hi>Kedar:</hi> but ſhew<note place="margin">Pſal. 120. 5.</note> thy ſelf a Burgeſs of the new <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> by that golden chain o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two links, faith and true repent<g ref="char:EOLhyphen"/>ance. Is God incenſed by thy pre<g ref="char:EOLhyphen"/>ſumption? labour to pacifie him with thy humiliation: and as thou haſt ſent thy ſins in a ſtorm or whirlwind of diſobedience unto the Tribunal of juſtice; ſo ſend thy ſoule in a gale of ſighes, to the Throne of grace, then all thy ſinnes will be as chaff before the wind, Chriſts merit ſcatter<g ref="char:EOLhyphen"/>ing them.</p>
+            <p>The penitent contrite heart hath godly ſorrow for ſin, and<note place="margin">Pſal. 126. 5.</note> ſpirituall joy for that ſorrow: they that ſow in teares, ſhall reape in joy. God ſees the teares
+<pb n="35" facs="tcp:191815:22"/> of his Saints as he did <hi>Hezekiahs,</hi> and albeit he gives them teares<note place="margin">
+                  <hi>Iſa. 38. 5. Pſal. 80. 5. Pſal.</hi> 56. 8. Bernard. <hi>Pſal. 104. 15.</hi>
+               </note> to drink yet he puts them into his bottle, and they are <hi>vinum Angelorum,</hi> the wine of the An<g ref="char:EOLhyphen"/>gels: for as wine maketh glad the heart of man; ſo repentant teares, diſtilling from the lim<g ref="char:EOLhyphen"/>beck of a ſorrowful faithful heart, make the very Angels and glo<g ref="char:EOLhyphen"/>rious Saints chant forth An<g ref="char:EOLhyphen"/>themes of joy to the prayſe of the Redeemer; for joy ſhall be in<note place="margin">Luke. 15 7.</note> heaven over one ſinner that re<g ref="char:EOLhyphen"/>penteth, more then over nine<g ref="char:EOLhyphen"/>ty and nine juſt perſons, which need no repentance. O then, I beſeech you friends by the com<g ref="char:EOLhyphen"/>ing of our Lord Jeſus Chriſt, as we have brought heavineſſe to the Courts of happineſſe, by our trangreſſion; ſo let us ſtrive to ſend melodie and rejoycing thi<g ref="char:EOLhyphen"/>ther by our Conve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion: then when the moſt High uttereth his
+<pb n="36" facs="tcp:191815:23"/> voice in the thundering Dialect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his indignation, we ſhall have peace; when obdurate tranſ<g ref="char:EOLhyphen"/>greſſors are plagued like the Egyptians, we ſhall be like the Iſraelites in <hi>Goſhen.</hi> And why?<note place="margin">Exod. 26.</note> becauſe true repentance is an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exception to the Generall Rule of Gods juſtice: in a word, it is Omnipotent, overcoming him who overcomes all things. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faithfull prayer iſſuing forth at the ſally-port of the mouth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from an humble penitent ſoul, routes all Gods judgements mu<g ref="char:EOLhyphen"/>ſtred up in fearefull hardneſſe a<g ref="char:EOLhyphen"/>gainſt it: When God beſieged<note place="margin">Ionah 3.</note> 
+               <hi>Nineveh</hi> with his fearful menaces, threatning a fiery ſtorme of de<g ref="char:EOLhyphen"/>ſtruction: then the poor deſtreſſ<g ref="char:EOLhyphen"/>ed<note place="margin">violentiae ſunt in preci<g ref="char:EOLhyphen"/>bus lachrymae. Aug.</note> 
+               <hi>Ninevites</hi> caſt themſelves down at the foot-ſtoole of his grace, threw away all other wea<g ref="char:EOLhyphen"/>pons, as unuſeful, beſides pray<g ref="char:EOLhyphen"/>ers and teares: with the power
+<pb n="37" facs="tcp:191815:23"/> whereof they raiſed the ſiedge, &amp; by their repentance they made God repent, as I may ſay, and albeit he could not endure their ſinning, yet he ſeems to ſuffer in their repenting, his compaſſion working in him a kinde of paſſion. Which makes my ſoul breath forth this Elogie<note place="margin">Aug. Conſeſ. l. 6. Deus a quo exire mori: in quem redire reviſcere, et in quo habita<g ref="char:EOLhyphen"/>re vivere Aug. in. Soliloqu. <hi>Pſal. 90. 1.</hi>
+               </note> in praiſe of my God, <hi>O vera ſum<g ref="char:EOLhyphen"/>ma ſuaevitas: omni ſuavitate dulci<g ref="char:EOLhyphen"/>or!</hi> O true incomparable ſweet<g ref="char:EOLhyphen"/>neſſe, ſweeter then ſweetneſſe it ſelfe! To goe out from God is to die: to returne to him is torevive, and to dwel in him is to live for ever. Which certainly made <hi>David</hi> rejoyce to ſay, Lord thou haſt been our dwelling-place in all generations. O how ſafe and happy is his condition who hath the Lord for his habitation? he cannot be baniſhed, heaven is his inheritance and free-hold, yea his Countrey: he cannot be ſe<g ref="char:EOLhyphen"/>queſtred,
+<pb n="38" facs="tcp:191815:24"/> for he is a member o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the high Court of Parliament i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heaven, where none but obedi<g ref="char:EOLunhyphen"/>ent ſubjects, maintaining th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prerogative Royall of the King of Kings have any intereſt: h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">1 Tim. 6. 6.</note> cannot be plundred, he ſtil keep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his wealth, the riches of grace godlineſſe is to him great gain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he cannot be impriſoned, fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gods preſence turnes the priſon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into a palace: to ſpeak a volume in a word; he that hath not the Lord hath nothing; and he that hath the Lord hath al things; he<note place="margin">Gen. 30. 27.</note> cannot but proſper, he muſt be bleſſed if <hi>Laban</hi> was bleſſed for <hi>Jacobs</hi> ſake: <hi>Obed-Edom</hi> becauſe the Arke continued in his houſe; without all controverſie, he muſt be tranſcendently bleſſed<note place="margin">2 Sam. 6. 11.</note> with whom God delights to dwel. Good cauſe hath he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſing with the ſweet <hi>ſinger of Iſrael,</hi> who thus reſolved with himſelf; <hi>I will abide, in thy Tabernacle for e<g ref="char:EOLhyphen"/>ver:
+<pb n="39" facs="tcp:191815:24"/> I wil truſt in the eovert of thy</hi>
+               <note place="margin">Pſal. 61. 4.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings.</hi> As the ſparrow fled into the boſome of <hi>Xenocrates</hi> the Phi<g ref="char:EOLhyphen"/>loſopher from the tallons of the Hawk: ſo let us fly with the wings of holy devotion to the boſome of our God, and there we ſhall have all ſafety and ſhel<g ref="char:EOLhyphen"/>ter from the cruel tallons of the Prince of the aires fury.</p>
+            <p>O then, <hi>let us love this gratious God with all our heart, and with</hi>
+               <note place="margin">Mat. 22. 37.</note> 
+               <hi>all our ſoule, and with all our mind.</hi>
+            </p>
+            <p>The manner of loving God, is without meaſure no <hi>Synecdoche</hi>
+               <note place="margin">Modus dili<g ref="char:EOLhyphen"/>gendi Deum eſt ſine modo. <hi>Bern. Tract.</hi> de <hi>Dilect. Dei.</hi>
+               </note> 
+               <hi>partis</hi> will ſerve in loves Rheto<g ref="char:EOLhyphen"/>ricke: no <hi>gradus remiſſus</hi> in this fire, which like the Veſtal fire a<g ref="char:EOLhyphen"/>mong the <hi>Romans,</hi> or rather like the ſacrificing fire on the Altar a<g ref="char:EOLhyphen"/>mong the <hi>Jews,</hi> muſt never be ex<g ref="char:EOLhyphen"/>tinguiſhed. The motions of our ſouls in love toward God, muſt not be like violent motions in Philoſophie, ſwift in the begin<g ref="char:EOLhyphen"/>ning,
+<pb n="40" facs="tcp:191815:25"/> &amp; ſlow in the end: but like the motion of the ſpheres they muſt be uniform &amp; continual ſo, there will be motion and muſick both. A man in this reſpect muſt be as S. <hi>John</hi> is ſtiled <hi>totus, amati<g ref="char:EOLhyphen"/>vus,</hi> wholly poſſeſt with love: as the ſoule is <hi>tota in toto, &amp; tota in qualibet parte,</hi> whole in the whole, and whole in every part, ſo it muſt be whole in the love of God: all the faculties of the ſoul as lines of the ſame circumference, muſt meet in the love of God as the centre.</p>
+            <p n="1">1. We muſt love the Lord with all our heart wiſely, reſiſt<g ref="char:EOLhyphen"/>ing the devill that he may flee<note place="margin">Iam. 4. 7.</note> from us. Satan is like the Croco<g ref="char:EOLhyphen"/>dile if we perſue, he flies, but if we flie, he purſues: we muſt therefore fight manfully under the banner of Jeſus Chriſt, caſt<g ref="char:EOLhyphen"/>ing off the works of darkneſſe,<note place="margin">Rom. 13. 12.</note> and putting on the armour of light. As without holineſſe no
+<pb n="41" facs="tcp:191815:25"/> man ſhall ſee the Lord, ſo with<g ref="char:EOLhyphen"/>out it, no man ſhall ſcare the de<g ref="char:EOLhyphen"/>vil: the load-ſtone looſeth his vertue beſmeared with garlick, and we our efficacie polluted with hainous trangreſſions: as I have read of <hi>Godfrey</hi> of <hi>Bullein,</hi> who being demanded by the infidels how he had his hands <hi>tant doctas ad praeliandum,</hi> ſo well in<g ref="char:EOLhyphen"/>ſtructed to fight, he anſwered. <hi>quia manus ſemper habui puras ab impuris contactibus peccati,</hi> be<g ref="char:EOLhyphen"/>cauſe I never defiled my hands with any notorious ſins. Though the worſt of men may be trium<g ref="char:EOLhyphen"/>phant Conquerers in other wars, as is apparent in theſe evil dayes: yet the beſt men onely are victo<g ref="char:EOLhyphen"/>rious in this holy warre, againſt the devil. They that undertak, in a ſinful bravado to ſwear down fortreſſes, blow away armies with a powerfull breath, and kill the enemie before they ſee him,
+<pb n="42" facs="tcp:191815:26"/> are no warriours here, for like the Captaines in <hi>Nahum, they</hi>
+               <note place="margin">Nahum. 3. 17.</note> 
+               <hi>camp in the hedges in the cold day; but when the Sun ariſeth (in the heat of ſervice) they flee away, and their place is not known where they are.</hi>
+            </p>
+            <p n="2">2. We muſt love the Lord with all our ſoul ſweetly mortifying all fleſhly luſts, which warre a<g ref="char:EOLhyphen"/>gainſt<note place="margin">1 Pet. 2. 11.</note> the ſoule, under the com<g ref="char:EOLhyphen"/>mand of that black Generall the Devil. Firſt, Fury as on the for<g ref="char:EOLhyphen"/>lorne hope, fights like a mad<g ref="char:EOLhyphen"/>man: Adultery like treacherous <hi>Joab</hi> doth kiſſe to kill: Glutrony<note place="margin">2 Sam. 20. 9.</note> may ſtand for a corporall, Drun<g ref="char:EOLhyphen"/>keneſs is the maſter-gunner who ſets all on fire: avarice is a pioner ſtil digging in the earth to make the ſhorteſt cut to hell: Idleneſſe is a gentleman of the Companie: Hypocriſie is the enſigne; but Pride muſt be the Captaine or Colonell elſe all the rankes are
+<pb n="43" facs="tcp:191815:26"/> broken. Now we muſt enter in<g ref="char:EOLhyphen"/>to Covenant to appoſe this car<g ref="char:EOLhyphen"/>nall Army with Spirituall wea<g ref="char:EOLhyphen"/>pons; me thinks God ſpeaks to a ſoul, as that noble Roman did to his ſonne, found in <hi>Catilines</hi> con<g ref="char:EOLhyphen"/>ſpiracie:<note place="margin">Fulvius. in Plutarch.</note> 
+               <hi>Non Catilinae te genui, ſed patriae:</hi> I begot thee not for that Traitor <hi>Catiline,</hi> but for thy Countrey: So God gave us not a being that we ſhould ſide with that Arch-traitor Satan, but that we ſhould valiantly fight for the maintenance of his glorious prerogative, and the rights and priviledges of our Countrey which is above. In this war all muſt fight, women muſt be ſpi<g ref="char:EOLhyphen"/>rituall <hi>Amozones,</hi> no neutrality can here be admitted, he that is not for God, doth declare againſt<note place="margin">Epheſ. 6. 13.</note> him. Wherefore let us put on the whole armour of God, and fight his battels continually without any truce or intermiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="44" facs="tcp:191815:27"/> then as bleſſed Triumph<g ref="char:EOLhyphen"/>ant conquerors we ſhal eat of the tree of life, which is in the midſt<note place="margin">Rev. 2. 7. 11. 17.</note> of the Paradiſe of God: we ſhall not be hurt of the ſecond death: we ſhall eate of the hidden Man<g ref="char:EOLhyphen"/>na: nay more, heare what Ora<g ref="char:EOLhyphen"/>tion<note place="margin">Rev. 3. 21.</note> our Captaine Jeſus Chriſt makes unto us, ſaying, <hi>To him that overcometh will I grant to ſit</hi>
+               <note place="margin">Donabit cer<g ref="char:EOLhyphen"/>tanti victoria<g ref="char:cmbAbbrStroke">̄</g>; qui certandi dedit audacia<g ref="char:cmbAbbrStroke">̄</g>. <hi>Aug.</hi>
+               </note> 
+               <hi>with me on my Throne, even as I al<g ref="char:EOLhyphen"/>ſo overcame, and am ſet with my Father on his throne.</hi>
+            </p>
+            <p n="2">2. We muſt love the Lord with all our mind conſtantly, over<g ref="char:EOLhyphen"/>coming al croſſes and troubles of the world. <hi>We are born to trouble as the ſparks flie upward.</hi> Man after he<note place="margin">Job. 5. 7.</note> hath been embarked nine months in a living veſſell, at laſt he ar<g ref="char:EOLhyphen"/>rives into this world, Lord of the Land, yet weeps at the poſ<g ref="char:EOLhyphen"/>ſeſſion: labour and ſorrow are the twinnes of ſinne borne at a birth, and mans life is an Her<g ref="char:EOLhyphen"/>mophrodite
+<pb n="45" facs="tcp:191815:27"/> conſiſting of both, labour was <hi>Adams,</hi> and ſorrow <hi>Eves,</hi> one of theſe for them both if not both theſe for either one. Seeing then that we are borne to troubles, let us beare them un<g ref="char:EOLhyphen"/>dauntedly in our greateſt afflicti<g ref="char:EOLhyphen"/>ons: let us watch, ſtand faſt in the faith, quit our ſelves like men and be ſtrong. For afflicti<g ref="char:EOLhyphen"/>ons are but bitter arrows ſhot<note place="margin">1 Cor. 16. 13.</note> from a loving hand, and if God doth not ſet us as a mark for the<g ref="char:cmbAbbrStroke">̄</g>,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Beat. Doro<g ref="char:EOLhyphen"/>theus. Doct. 3</hi>
+               </note> it is to be feared he hath not ſet a mark on us for his own. <hi>Calamitas virtutis occaſio eſt,</hi> ſaith <hi>Seneca,</hi> Tribulation moves Gods mercie towards the ſoul, as winds do raiſe rain to refreſh the earth. It is good for me that I have been afflicted, ſaith <hi>David. Pſal.</hi> 119. 71.</p>
+            <p>The Poets faine two Temples, the one of joy, and the other of ſorrow; but ſo built that we can<g ref="char:EOLhyphen"/>not go into that of joy, but
+<pb n="46" facs="tcp:191815:28"/> through that of ſorrow. We muſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſe through a wilderneſſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Acts 14. 22.</note> tribulation, before we can ar<g ref="char:EOLhyphen"/>rive at the <hi>Canaan</hi> of felicity. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Heb. 12. 7, 8.</note> ye endure chaſtening, God deal<g ref="char:EOLhyphen"/>eth with you as with ſons: for what ſon is he whom the Father chaſteneth not? But if ye be<note place="margin">Durate &amp; voſ<g ref="char:EOLhyphen"/>met rebus ſervate ſecun<g ref="char:EOLhyphen"/>dis. <hi>Virgil.</hi> l. 1. <hi>Aeneid.</hi>
+               </note> without chaſtiſement, whereof all are partakers, then are ye ba<g ref="char:EOLhyphen"/>ſtards and not ſons, ſaith the great Doctor of the <hi>Gentiles.</hi> Read but the 11. Chapter of the Second Epiſtle to the <hi>Carinthi<g ref="char:EOLhyphen"/>ans,</hi> and there ye may behold a world of miſery delineated in Saint <hi>Paul</hi> as in a Mappe: there ye may read his miſery to be methodicall, and his torment accurate: yet, that which is anothers either grief or fear,<note place="margin">Rom. 5. 3.</note> was his glory. We glory in tribulations ſaith he, for I reck<g ref="char:EOLhyphen"/>on<note place="margin">Rom. 8. 18.</note> that the ſufferings of this pre<g ref="char:EOLhyphen"/>ſent time, are not worthy to be
+<pb n="47" facs="tcp:191815:28"/> compared with the glory which ſhall be revealed in us.</p>
+            <p>As in the ſame fire gold gliſters<note place="margin">Sint ſub uno igne. Rutilat aurum, palea fumat, &amp;c. Ita una eade<g ref="char:cmbAbbrStroke">̄</g>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vis irruens bonos pro<g ref="char:EOLhyphen"/>bat, purificat, eliquat: malos damnat, &amp;c. <hi>Aug.</hi> de <hi>Civit. Dei</hi> l. 1. c. 8.</note> and ſtraw or chaff ſmoaks: ſo in the ſame furnace of affliction, to uſe the Prophets words, <hi>Iſa.</hi> 48. 10. Gods children are tryed, mel<g ref="char:EOLhyphen"/>ted and refined; but the repro<g ref="char:EOLhyphen"/>bates are conſumed, ſpoil'd and utterly deſtroyed.</p>
+            <p>The ſame fire which had no power over <hi>Shadrach, Meſhach</hi> &amp; <hi>Abednego,</hi> ſlew thoſe men that took them up; the ſame Den of Lions was a ſlaughter-houſe to <hi>Daniels</hi> Perſecutors, but an <hi>Aſy<g ref="char:EOLhyphen"/>lum</hi>
+               <note place="margin">Dan. 3. 22. Dan. 6.</note> to himſelf: ſo the ſame tri<g ref="char:EOLhyphen"/>bulation is a haven to the Godly, but a gulph of deſtruction to the<note place="margin">Tantum inter<g ref="char:EOLhyphen"/>eſt non qua<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſed qualis quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> patia<g ref="char:EOLhyphen"/>tur. <hi>Aug.</hi> ibid.</note> wicked: ſo that in this we muſt conſider the quality of the pati<g ref="char:EOLhyphen"/>ent, not of the diſeaſe.</p>
+            <p>Furthermore, as affliction it ſelf is to the wicked a living death, and a terreſtrial hell: ſo
+<pb n="48" facs="tcp:191815:29"/> their unacquaintedneſſe with i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt commonly proves a ſnar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ruine to them: as we read of Saint <hi>Ambroſe</hi> Biſhop of <hi>Mil<g ref="char:EOLhyphen"/>laine,</hi>
+               <note place="margin">Marullus. lib. 5. c. 3</note> who being invited to a rich mans houſe, and hearing him boaſt of a continual proſperitie without any intermixture of ad<g ref="char:EOLhyphen"/>verſitie, he with his retinue in<g ref="char:EOLhyphen"/>ſtantly departs, ſaying, <hi>ideo ſe<g ref="char:EOLunhyphen"/>inde ſugere, ne un à <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> homine pre<g ref="char:EOLhyphen"/>peiuis proſperitatibus uſo statim periret,</hi> leaſt he ſhould be ſo un<g ref="char:EOLhyphen"/>happy as to periſh with that wretched happy man. This re<g ref="char:EOLhyphen"/>verend Father had not gone far, but looking backe he beheld the rich mans houſe, and all that he had, ſwallowed up, <hi>as Korah Dathan and Abiram with the</hi>
+               <note place="margin">Numb. 16.</note> 
+               <hi>earth.</hi>
+            </p>
+            <p>
+               <hi>Therefore forget not the exhorta<g ref="char:EOLhyphen"/>tion</hi>
+               <note place="margin">Heb. 12. 5, 6.</note> 
+               <hi>which ſpeaketh to you as chil<g ref="char:EOLhyphen"/>dren, my ſon deſpiſe not thou the chaſtening of the Lord, nor faint
+<pb n="49" facs="tcp:191815:29"/> when thou art rebuked of him: for whom the Lord loveth, he chaſten<g ref="char:EOLhyphen"/>eth,</hi>
+               <note place="margin">nihil infelici<g ref="char:EOLhyphen"/>us eo cui ni<g ref="char:EOLhyphen"/>hil unquam e<g ref="char:EOLhyphen"/>venit adver<g ref="char:EOLhyphen"/>ſi: Demetri<g ref="char:EOLhyphen"/>us in Sen. <hi>Heb. 11. 25. Pſal. 119. 97. Iſa. 26. 16.</hi>
+               </note> 
+               <hi>and ſcourgeth every ſon whom he receiveth.</hi> Surely there is no<g ref="char:EOLhyphen"/>thing more unhappy then him to whom no unhappineſſe doth ever happen.</p>
+            <p>And O thrice happy is that Chriſtian, whoſe affliction is ſo ſanctified unto him, that he will chooſe (as <hi>Moſes</hi> did) rather to ſuffer affliction with the people of God then enjoy the pleaſures of ſin for a ſeaſon. And bleſſed is that ſoul which can ſweetly breath forth with <hi>David,</hi> ſaying, <hi>Before I was afflicted; I went aſtray: but now have I kept thy word.</hi>
+            </p>
+            <p>How happy ſhould I be if I could ſay with the <hi>Prophet</hi> con<g ref="char:EOLhyphen"/>cerning the Inhabitants of this Land; <hi>Lord, in trouble have they viſited thee: they powred out a prayer when thy chastening was upon them:</hi> But alas, <hi>horreſco referens,</hi> our
+<pb n="50" facs="tcp:191815:30"/> hearts <hi>Pharoah</hi> like are hardened by Gods Judgements which roar not ſo loud to our terror, as we are ſilent in our repentance; which makes God complain, I have ſent among you the Peſtilence after the manner of <hi>Egypt:</hi> your<note place="margin">Amos. 4. 10.</note> young men have I ſlain with the ſword, and I have taken away your horſes, &amp; I have made the ſtinke of your camps to come up unto your noſtrils, yet have ye not returned unto me faith the Lord. Again I hearkened and heard, but they ſpake not aright: no man repented him of his wickedneſſe, ſaying, what <hi>have I done? every one turned to</hi>
+               <note place="margin">Ier. 8. 6. 7. 12.</note> 
+               <hi>his courſe, as the horſe ruſheth into the battel.</hi> Yea the Storke in the heavens knoweth her appointed times, and the Turtle, and the Crane, and the Swallow obſerve the time of their comming; but my people know not the judge<g ref="char:EOLhyphen"/>ment
+<pb n="51" facs="tcp:191815:30"/> of the Lord. Were they aſhamed when they had com<g ref="char:EOLhyphen"/>mited abomination? nay, they were not at all aſhamed, neither could they bluſh: therefore ſhall they fail among them them that fall in the day of their viſitation, they ſhall be caſt down, ſaith the Lord.</p>
+            <p>Me thinks. I hear the Lord utter his voice concerning this land, ſaying, <hi>the Rulers take coun<g ref="char:EOLhyphen"/>cell together againſt the Lord, and againſt his Anointed: they ſit</hi>
+               <note place="margin">
+                  <hi>Pſal. 2. Pſal.</hi> 90. 20. 21. Quale eſt Do<g ref="char:EOLhyphen"/>minantis arbi<g ref="char:EOLhyphen"/>trium talis li<g ref="char:EOLhyphen"/>ber tatis aſpe<g ref="char:EOLhyphen"/>ctus. Caſſio<g ref="char:EOLhyphen"/>dor l. 3. Epiſt.</note> 
+               <hi>on the throne of iniquity, and frame miſchiefe by a law. They gather themſelves together againſt the ſoul of the righteous: and condemn the innocent blood.</hi>
+            </p>
+            <p>Againe, this people hath are<g ref="char:EOLhyphen"/>volting and rebellious heart, they are revolted and gone. They are waxen fat, they ſhine: yea they overpaſſe the deeds of the wick<g ref="char:EOLhyphen"/>ed: they judge not the cauſe; the
+<pb n="52" facs="tcp:191815:31"/> cauſe of the Fatherleſſe, yet they proſper.</p>
+            <p>But how long? The juſt Judge<note place="margin">Ier. 5. 23. 28.</note> of heaven and earth is bending his bow, and making his arrowes ready againſt the perſecuters, he hath bent his bow, like an ene<g ref="char:EOLhyphen"/>mie,<note place="margin">Lam. 2. 4.</note> and called as 'twere a Coun<g ref="char:EOLhyphen"/>cell of war, upon the propound<g ref="char:EOLhyphen"/>ing this Queſtion: Shall I not vi<g ref="char:EOLhyphen"/>ſit for theſe things; ſaith the<note place="margin">Ier. 5. 29.</note> Lord? and ſhall not my ſoul be avenged on ſuch a Nation as this? <hi>Wo to the Rebellious Chil<g ref="char:EOLhyphen"/>dren,</hi>
+               <note place="margin">Iſa. 30. 1.</note> 
+               <hi>ſaith the Lord, that take councell, but not of me; and that cover with a covering but not of my ſpirit, that they may adde ſinne to ſinne.</hi>
+            </p>
+            <p>Verily we maske a fowle face under a fair vizard; and put Gods ſtampe upon our Adulterous<note place="margin">
+                  <hi>Iaſ.</hi> 5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 8.</note> Caine: coſtruing Gods mean<g ref="char:EOLhyphen"/>ing by our own, and expound<g ref="char:EOLhyphen"/>ing Gods will by our own work,
+<pb n="53" facs="tcp:191815:31"/> as if Gods wayes were as our wayes, and his thoughts as our thoughts. Alas, we ſeeme to be religious, not for Gods glory but (as we fondly conceive) for our own advantage; making no other uſe of pietie, then as it may ſerve a tricke of pollicie: ſo that truth is fallen in the ſtreet, and equitie cannot enter: yea truth<note place="margin">Iſa. 59. 14. 15.</note> faileth, and he that departeth from evill maketh himſelf a prey.</p>
+            <p>There is a great ſhew of new lights, yet we wait for true light, but behold obſcurity, for bright<g ref="char:EOLhyphen"/>neſſe, but we walke in darke<g ref="char:EOLhyphen"/>neſſe.<note place="margin">Iſa. 59. 9.</note> And as if we loved darke<g ref="char:EOLhyphen"/>neſſe better then light, we hate to be reproved, and yet will not be reformed: like thoſe beaſts in <hi>Plinie,</hi> which have <hi>fell in Au<g ref="char:EOLhyphen"/>re,</hi> the hearing of truth galls us, and if any ſhall come unto us with a <hi>vae vobis,</hi> as our <hi>Iſraels</hi>
+               <pb n="54" facs="tcp:191815:32"/> troubler, we will fetch him up with a <hi>Coram nobis;</hi> juſt, <hi>Ahabs</hi> humour to <hi>Elijah,</hi> and <hi>Agamem<g ref="char:EOLhyphen"/>nons</hi> in <hi>Homer</hi> to <hi>Chalchas.</hi>
+               <note place="margin">1 Kings 21. 20</note>
+            </p>
+            <p>If learned and reverend Di<g ref="char:EOLhyphen"/>vines will not eate up the ſinnes<note place="margin">Hoſe. 4. 8.</note> of the people, and the ſins of the Rulers which are the Rulers o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Pſal. 14. 4.</note> ſinnes, they themſelves ſhall be eaten up as it were bread. <hi>In</hi>
+               <note place="margin">Salvian. de guber. Dei. l. 5.</note> 
+               <hi>hoc ſeclus res devoluta eſt, ut niſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quis malus fuerit ſalvus eſſe non po<g ref="char:EOLhyphen"/>teſt:</hi> he that will not ſwim with the ſtream of raigning impietie, is threatened to be drowned in the raging Sea of unparallel'd cruelty. This is the birth-day of<note place="margin">1 Sam. 4. 21.</note> 
+               <hi>Jchabod:</hi> the Churches <hi>magni<g ref="char:EOLhyphen"/>ficat</hi> is turned or tuned to <hi>miſe<g ref="char:EOLhyphen"/>rere;</hi> ſo that bleſſed is the man that hath his <hi>nunc dimittis</hi> to the Church triumphant; ſo miſerable is the Eſtate of our Church <hi>mili<g ref="char:EOLhyphen"/>tant. O tempora, O mores!</hi> all the ſinnes of former ages are rallied
+<pb n="55" facs="tcp:191815:32"/> up in this, and keep their Ran<g ref="char:EOLhyphen"/>dezvous in our Land, which was once the envie of other nations, but is now become their reproch: and the inhabitants thereof an<note place="margin">Micah. 6. 16.</note> hiſſing, according to that of the Wiſe-man, ſaying, Righteouſneſs exalteth a nation, but ſinne is a<note place="margin">Prov. 14. 34.</note> reproach to any people. Then certainely it muſt be ſo to us, for many monſters of ſin which our Fore-fathers never dremed off, are viſible amongſt us; la<g ref="char:EOLhyphen"/>bouring as 'twere to fright mer<g ref="char:EOLhyphen"/>cie from us: and with the <hi>Gada<g ref="char:EOLhyphen"/>renes</hi> to drive Chriſt Jeſus our of our Coaſt. As if we were able not onely to contend with but alſo overcome the Almighty. We hang our bloodie colours of defiance againſt him, ſending him a challendge to ſhew him<g ref="char:EOLhyphen"/>ſelfe the Lord of Hoſts as well as the God of peace: for as <hi>Abner</hi>
+               <note place="margin">
+                  <hi>2 Sam.</hi> 2. 14<g ref="char:punc">▪</g>
+               </note> called fighting a ſport, ſaying un<g ref="char:EOLhyphen"/>to
+<pb n="56" facs="tcp:191815:33"/> 
+               <hi>Joab, let the young men ariſe and play before us:</hi> ſo to fight againſt the Lord with the weapons of unrighteouſneſſe is our paſtime and delight, as if there were no God to revenge, nor hell to tor<g ref="char:EOLhyphen"/>ment,<note place="margin">Luke 18. 2.</note> like the unjuſt Judge in <hi>Luke,</hi> we feare not God, neither regard man.<note place="margin">Animas mor<g ref="char:EOLhyphen"/>tuas multi in corpore vivo habent. <hi>Aug.</hi>
+               </note>
+            </p>
+            <p>Alas, we have dead ſouls in living bodies: neither Gods mercie that ſweet language of his love, could woe us to repent<g ref="char:EOLhyphen"/>ance;<note place="margin">Iſa. 26. 10.</note> nor can his judgements as a fierce Lion deterre us from<note place="margin">O mentes a<g ref="char:EOLhyphen"/>mentes, per<g ref="char:EOLhyphen"/>didiſtis utili<g ref="char:EOLhyphen"/>tatem calami<g ref="char:EOLhyphen"/>tatis. <hi>Aug.</hi> de <hi>Civit. Dei</hi> lib. 1. cap. 33.</note> running in the broad way of wickedneſſe: inſomuch that as <hi>Auguſtine</hi> complained of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> reaſon is ſequeſtred from our minds, and it is not ſo much our error, as our fury, which makes us looſe the profit of our calamity: <hi>Ah, the trumpet is blowne</hi>
+               <note place="margin">Amor. 3.</note> 
+               <hi>in the Citie, and the people are not afrayd:</hi> the Lion roareth, and yet
+<pb n="57" facs="tcp:191815:33"/> we tremble not: ſo dead are we in ſinnes and treſpaſſes.</p>
+            <p>In this overflowing of our ini<g ref="char:EOLhyphen"/>quity<note place="margin">Quòd vivitis Dei eſt, qui vobis parcen<g ref="char:EOLhyphen"/>do admonet, ut corrigami<g ref="char:EOLhyphen"/>ni paenitendo. <hi>Aug.</hi> ibid.</note> if we do not all periſh as the old world did by deluge, it is not becauſe we are leſſe ſinful, but becauſe God is more mercy<g ref="char:EOLhyphen"/>full. It is his mercie that we live, and he ſpares us onely to admo<g ref="char:EOLhyphen"/>niſh us how we ſhould improve his patience, and long-ſuffering by our repentance. But God may juſtly complaine of us ſaying, <hi>I</hi>
+               <note place="margin">Iſa. 65. 2, 3.</note> 
+               <hi>have ſpread out my hands all the day unto a Rebellious People, which walketh in a way that is not good, after their owne thoughts: a people that provoketh me to anger conti<g ref="char:EOLhyphen"/>nually to my face.</hi>
+            </p>
+            <p>As <hi>Cyprian</hi> once complained<note place="margin">Inter Popu<g ref="char:EOLhyphen"/>lum frequente ſtrage mori<g ref="char:EOLhyphen"/>entem nemo conſiderat ſe eſſe morta<g ref="char:EOLhyphen"/>lem. <hi>Cyprian.</hi>
+               </note> of the plague of peſtilence in <hi>Carthage,</hi> ſaying, that among a people continually ſlaine by the deſtroying Angel no man con<g ref="char:EOLhyphen"/>ſidereth himſelf to be mortall:
+<pb n="58" facs="tcp:191815:34"/> So we of this kingdome plagued with warre, peſtilence and fa<g ref="char:EOLhyphen"/>mine turne not unto him that ſmiteth us, neither do we ſeeke the Lord of Hoſts, as if we would make the Prophet a lyer<note place="margin">Iſa. 9. 13.</note> who ſaith, when thy judgements are in the earth, the inhabitants<note place="margin">Iſa. 26. 9.</note> of the world will learne righte<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+            <p>Surely God hath a controver<g ref="char:EOLhyphen"/>ſie with the inhabitants of this Land, becauſe by ſwearing, and<note place="margin">Hoſe. 4.</note> lying, and killing and ſtealing, and committing adultery, they breake out, and blood toucheth blood; Therefore ſhall the land mourne. When rebellion againſt Heaven blows the trumpet, and beats up the drum, deſolation commonly begins the march: deſtruction hangs over our heads as the ſword over the head of <hi>Damocles,</hi> but by a horſe haire, a twine thread, I feare 'twill ſud<g ref="char:EOLhyphen"/>denly
+<pb n="59" facs="tcp:191815:34"/> fall upon us: according to that of the Apoſtle, When they<note place="margin">1 Thaſ. 5. 3.</note> ſay peace and ſafety: then ſudden deſtruction cometh upon them as travaile upon a woman with child, and they ſhall not eſcape. We have grieved Gods ſpirit by our multiplyed tranſgreſſions, ſo that we may ſighe out this la<g ref="char:EOLhyphen"/>mentation, The joy of our heart is ceaſed our dance is turned in<g ref="char:EOLhyphen"/>to mourning, the Crown is fal<g ref="char:EOLhyphen"/>len from our head. Woe unto<note place="margin">Lam. 5. 15, 16.</note> us that we have ſinned.</p>
+            <p>Conſider this therefore all ye that forget God, ſtand in awe<note place="margin">Rom. 6. 33.</note> and ſin not. The nature of ſin is deadly, the leaſt ſin hath in it the ſtinge of death; and I may ſay every ſin is great be<g ref="char:EOLhyphen"/>cauſe it is againſt the greateſt. It may ſeem at firſt a <hi>Zoar,</hi> but at laſt it may prove a <hi>Sodome,</hi> draw<g ref="char:EOLhyphen"/>ing a hell from heaven upon it.</p>
+            <pb n="60" facs="tcp:191815:35"/>
+            <p>
+               <hi>The wicked ſhall be turned into hell, and the Nations that forget, God.</hi> When the ſentence is paſſed there is no reprieve to be expect<g ref="char:EOLhyphen"/>ed;<note place="margin">
+                  <hi>Pſal.</hi> 9. 17. Nequaquam miſericordia parcentis li<g ref="char:EOLhyphen"/>berat, quos ſe<g ref="char:EOLhyphen"/>mel juſtitia judicantis damnat. Greg. lib. 9. Moral.</note> tears of blood cannot ob<g ref="char:EOLhyphen"/>taine pardon: there is no hope of mercie in the place of Juſtice; nor of life in the Region of death, Here in the world is the Sunne ſhineth on the juſt and unjuſt both, but in the darke<g ref="char:EOLhyphen"/>ſome dungeon of eternall death it is not ſo; darkneſſe and ſor<g ref="char:EOLhyphen"/>row there barre out all light and ſolace.</p>
+            <p>In hell there is a towfold pu<g ref="char:EOLhyphen"/>niſhment 1. <hi>Paena ſenſus,</hi> the pu<g ref="char:EOLhyphen"/>niſhment of ſenſe, which is ſo great, that the heart of man can<g ref="char:EOLhyphen"/>not conceive it, nor the tongue utter it: the fire burnes, but not conſumes; the worme gnaws, but not devoures; and as the joyes on earth were torments compa<g ref="char:EOLhyphen"/>red with the unſpeakable joyes
+<pb n="61" facs="tcp:191815:35"/> of heaven? ſo the greateſt tor<g ref="char:EOLhyphen"/>ments in this world are very joyes in reſpect of the paines of hell in this lake that burneth with fire and brimſtone the<note place="margin">Rev. 20. 10.</note> damned are tormented day and night for ever and ever; death there alwayes begins and never ends.</p>
+            <p n="2">2. <hi>Paenadamni,</hi> the puniſhment of loſſe, which is the greateſt puniſhment of all, ſinne at once opens the gates of hell, and ſhuts the door of heaven: the damned wretches feeling the horrible weight of Gods wrath then weepe, gnaſh their teeth, and roar in the bitterneſſe of their ſouls, for the loſſe of his favour; then by the <hi>Logick</hi> of Op<g ref="char:EOLhyphen"/>poſites they find there is a heaven by their being caſt into hell: O fearfull <hi>Topicks</hi> when they are taught <hi>pugno contracto,</hi> with the fiſt of Gods fury. Oh it is moſt
+<pb n="62" facs="tcp:191815:36"/> lamentable to read ſweet mercy loſt by the bloody characters of an enraged juſtice, and to mea<g ref="char:EOLhyphen"/>ſure the bleſſed eſtate of the glo<g ref="char:EOLhyphen"/>rified Saints by the want of that happineſſe, not by the fruition: it is another hell in hell to know the love of Jeſus Chriſt as a Sa<g ref="char:EOLhyphen"/>viour, by his ſeverity as a Judge only. O how much would he<note place="margin">
+                  <hi>Aquinas.</hi> Maluer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t Saguntini ſe ſuá<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omnia igne conſu<g ref="char:EOLhyphen"/>mere, quàm aut faederati populi amici<g ref="char:EOLhyphen"/>tiam deſere<g ref="char:EOLhyphen"/>tere, &amp;c. <hi>Liv. Bell.</hi> lib. 1.</note> that now lies frying in hell re<g ref="char:EOLhyphen"/>joice, if he might have but the leaſt moment of time wherein he might get Gods favour?</p>
+            <p>It is lamentable to hear, much more to read the woefull Tra<g ref="char:EOLhyphen"/>gedie of <hi>Saguntus,</hi> a City of <hi>Spaine</hi> deſtroyed by <hi>Hannabal,</hi> ſaith Saint <hi>Auguſtine:</hi> but I may rather ſay, that it is moſt terrible to hear the ſtory of hell, but infi<g ref="char:EOLhyphen"/>nitely wretched to feele the fu<g ref="char:EOLhyphen"/>ry of that unquenchable fire, by reaſon of an immortall death and a deadly life, ever dying and
+<pb n="63" facs="tcp:191815:36"/> yet never dead. What <hi>David</hi>
+               <note place="margin">Pſal. 55. 15.</note> therefore wiſhed unto his foes, I will wiſh unto my beſt friends, e<g ref="char:EOLhyphen"/>ven that they may go down quick into hell, by holy meditation, to prevent their caſting into it by condemnation: with an <hi>Ite Im<g ref="char:EOLhyphen"/>parati ad paratum,</hi> go ye curſed ſouls which were unprepared for heaven, to hell, a place pre<g ref="char:EOLhyphen"/>pared for the Devil and his An<g ref="char:EOLhyphen"/>gels; ye have ſinned without re<g ref="char:EOLhyphen"/>pentance, and therefore ye muſt be damned without remedy.<note place="margin">Omnis anima aut Chriſti ſponſa, aut Diaboli adul<g ref="char:EOLhyphen"/>tera eſt. <hi>Aug.</hi> in <hi>Gen.</hi>
+               </note>
+            </p>
+            <p>If the ſoul be Satans Adultereſs, and not Chriſt's Spouſe, then hell muſt be her inheritance, whoſe worke was ſinne, and companion Satan: let us there<g ref="char:EOLhyphen"/>fore labour to eſpouſe our ſouls to Jeſus Chriſt, who will here decorateus with grace; and here<g ref="char:EOLhyphen"/>after when he bring us home to his Palace, he will cloath us with robes of glory, and put a
+<pb n="64" facs="tcp:191815:37"/> Crown of pure gold upon ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heads in the kingdome of his Fa<g ref="char:EOLhyphen"/>ther. Where God ſhall wipe a<g ref="char:EOLhyphen"/>way all teares from our eyes, and<note place="margin">Rev. 7. 17.</note> we ſhall have happineſs without any heavineſſe, light without a<g ref="char:EOLhyphen"/>ny darkneſs, and all this without any end. Let us now commune with our own hearts, and conſi<g ref="char:EOLhyphen"/>der, As there is a Pallace of glo<g ref="char:EOLhyphen"/>ry ſo there is a dungeon of eter<g ref="char:EOLhyphen"/>nall miſerie, both receptacles for the ſouls of men: the way to the one, is pleaſant, but the jour<g ref="char:EOLhyphen"/>neys-end is moſt painefull; the way to the other is paineful, but the journeys-end is moſt plea<g ref="char:EOLhyphen"/>ſant; the voiage is tempeſtuous, but the arrivall is beyond al ex<g ref="char:EOLhyphen"/>preſſion joyfull: as it is written <hi>Eye hath not ſeen, nor eare heard,</hi>
+               <note place="margin">1 Cor. 2. 9.</note> 
+               <hi>neither have entred into the heart of man, the things which God hath prepared for them that love him.</hi> O then, let not us ſell this ever<g ref="char:EOLhyphen"/>laſting
+<pb n="65" facs="tcp:191815:37"/> kingdome of glory for a cup of cold comfort, a draught of deadly poiſon, as <hi>Lyſimachus</hi> ſold his kingdome for a cup of cold water: but as it is Satans heaven, even in hell it ſelfe to bring wretched men into utter darkneſſe, counting himſelfe happy when he can make others like himſelfe moſt unhappy: So let it be our heaven on earth to fight againſt this curſed enemie, under the banner of the Lord Je<g ref="char:EOLhyphen"/>ſus; till we have beat down all his ſtrong holds, and utterly ſub<g ref="char:EOLhyphen"/>dued him under our feet, inſo<g ref="char:EOLhyphen"/>much<note place="margin">Rom. 6. 14.</note> that ſinne ſhall have no more dominion over us.</p>
+            <p>Now, we muſt fight againſt this enemy in the Spring, even in youth: we muſt labour to walke in the paths of holineſſe, whilſt we are able to run in the wayes of wickedneſſe: we muſt ſerve our beſt Maſter in our beſt
+<pb n="66" facs="tcp:191815:38"/> daies, leaſt we offer up the beſt of our ſervice unto the worſt, and the worſt of our ſervice un<g ref="char:EOLhyphen"/>to the beſt: if Satan hath had our <hi>Magnificat</hi> all our daies, God wil ſcarce accept of our <hi>Nun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Di<g ref="char:EOLhyphen"/>mittis</hi> at the laſt gaſpe: if our ſoules are dedicated at firſt to Sa<g ref="char:EOLhyphen"/>tan as his Synagogue, it is to be feared, they will never be conſe<g ref="char:EOLhyphen"/>crated to God as his Sanctuary. Grace will hardly be courted by the old man, which was reject<g ref="char:EOLhyphen"/>ed by the young: and he ſhall ſcarce winne her in ſickneſſe or on the death-bead, who did not woo her in perfect health: if God come in youth and find no fruit, beware the fig-rrees curſe, <hi>Never fruit grow on thee hereafter.</hi>
+               <note place="margin">Mat. 21. 19.</note> Manna is to be gathered in the morning; and grace to be em<g ref="char:EOLhyphen"/>braced in youth. As <hi>Solomon</hi> (whoſe heart was the Throne of wiſedome, and whoſe tongue
+<pb n="67" facs="tcp:191815:38"/> was made up of harmonie) ad<g ref="char:EOLhyphen"/>viſeth us, ſaying, <hi>Remember now</hi>
+               <note place="margin">Eccleſ. 12. 1</note> 
+               <hi>thy Creatour in the dayes of thy youth, while the evil dayes come not, nor the years draw nigh, when thou</hi>
+               <note place="margin">Frangas citius quam corrigas quae in malum induruerunt Quintilian.</note> 
+               <hi>ſhalt ſay, I have no pleaſure in them.</hi> It is il graffing upon an old ſtock; and to put the Nectar of vertue into the old ſtincking Caſk of vice, is as impertinent as to put new wine into old botles: there<g ref="char:EOLhyphen"/>fore while we are young men, let us caſt off the old man with his works, and put on the new man, the Lord Jeſus Chriſt: who of<note place="margin">1 Cor. 1. 30.</note> God is made unto us wiſdome, and righteouſneſſe, and ſanctifi<g ref="char:EOLhyphen"/>cation, and redemption.</p>
+            <p>Would we then emboſome our ſelves in Chriſt, do we deſire to behold a gracious mercie-ſeat in the midſt of a juſt tribunal, let us humble our ſelves under the mighty hand of God, that he may<note place="margin">1 Pet. 5. 5, 6.</note> exalt us in due time; caſting all
+<pb n="98" facs="tcp:191815:39"/> our care upon him, for he careth for us. He forgetteh not the cry<note place="margin">Pſal. 9. 12.</note> of the humble, it climbes the batlements of Olympus and wre<g ref="char:EOLhyphen"/>ſtles with God till it obtaines a bleſſing, it pierceth the clouds of the air and by the ſtrength of Chriſts out-ſtretched arme, it diſpells the clouds of Gods diſ<g ref="char:EOLhyphen"/>pleaſure, and cauſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the light of his countenance to ſhine up<g ref="char:EOLhyphen"/>on us, miſerable ſinners.</p>
+            <p>Now therefore I beſeech you that are my dear friends and old ac<g ref="char:EOLhyphen"/>quaintance,<note place="margin">Ubi nullus metus, ibi nulla religio. <hi>Pſal. 2. 11.</hi>
+               </note> to ſet Gods mercie &amp; his juſtice evermore before your eyes; the one to keepe you from preſumption, and the o<g ref="char:EOLhyphen"/>ther from deſpair: ſerve the Lord<note place="margin">Mal. 3. 14.</note> with fear, and rejoyce with trem<g ref="char:EOLhyphen"/>bling. Say not within your ſelves, it is vain to ſerve God: and what profit is it, that we keep his or<g ref="char:EOLhyphen"/>dinance, and that we walk mourn<g ref="char:EOLhyphen"/>fully before the Lord of Hoſtes?
+<pb n="69" facs="tcp:191815:39"/> O what greater deformity is<note place="margin">Quid inde<g ref="char:EOLhyphen"/>centius, quam curvum recto corpore gere<g ref="char:EOLhyphen"/>re animum? Bern. in Cant. Ser. 14. A praefinibus arcendus eſt hoſtis. Sen.</note> there then to have ſuch crooked ſouls in upright bodies? But I hope better things of you, ſhew your valour therefore by dri<g ref="char:EOLhyphen"/>ving the enemie back in the fron<g ref="char:EOLhyphen"/>tiears; deal with your ſinnes as the Pygmies deal with the Cranes, crack them in the ſhel: ſin is as the Sea, if it once make but a ſmall breach, it threatens a great deluge: &amp; that which firſt ſeems but a peccadillo, may at laſt with<g ref="char:EOLhyphen"/>out deception of ſight, be ſeen in a multiplying glaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. <hi>Non est ſecurum inter ſerpentes dormire:</hi>
+               <note place="margin">Hieron.</note> it is not ſafe to ſleepe among ſer<g ref="char:EOLhyphen"/>pents,<note place="margin">Peccatum dulce in fau<g ref="char:EOLhyphen"/>cibus, tormen<g ref="char:EOLhyphen"/>mentum in<g ref="char:EOLhyphen"/>viſceribus. Aug.</note> nor ſlumber in tranſgreſ<g ref="char:EOLhyphen"/>ſions: for they which run the hazard, commonly like men ſtung with Aſpes, they haſten to death, not feeling their dy<g ref="char:EOLhyphen"/>ing, but are dead, before they thought themſelves to have been ſick. Sin is indeed a poiſonous
+<pb n="70" facs="tcp:191815:40"/> pill ſugred and candied over; it is ſweet in the mouth, but<note place="margin">Peccati dolor et maximus et aeternus eſt. Cicero. Attic.</note> ſowre in the maw: pleaſent to the ſenſe, but deſtructive to the ſoul: the taking of it is delicious, but the operation deadly: for if<note place="margin">Rom. 8. 13.</note> ye live after the fleſh ye ſhal die, but if ye through the ſpirit do mortifie the deeds of the body, ye ſhall live. Though wickedneſſe<note place="margin">Job. 20. 12. 13. 14.</note> (ſaith <hi>Job</hi>) be ſweet in his mouth, though he hide it under his ton<g ref="char:EOLhyphen"/>gue, though he ſpareit, &amp; forſake it not, but keep it ſtill within his mouth: yet his meate in his bowells is turned, it is the gall of Aſpes in the midſt of him. He forſakes his own mercie. Lay<note place="margin">Jonah. 2. 8. Iam. 5. 9.</note> your hands therefore upon your hearts, behold, the Judge ſtand<g ref="char:EOLhyphen"/>eth before the door; Jeſus Chriſt is ready to deſcend in a Throne of clouds to judge the world: and if ye have not your <hi>Quietus eſt</hi> in the ſoul, before death with
+<pb n="71" facs="tcp:191815:40"/> a cold hand preſents one to you in the body, eternally miſerable muſt ye be. When the righteous ſhall at the great day, and gene<g ref="char:EOLhyphen"/>rall Aſſizes come out of their graves, as Miners out of their pits, laden with gold and glory, ye like wretched Malefactors, ſhal come out of the dungeon, ſee him whom ye have pierced, and receive your juſt condemnation from him: ye ſhall for a moment<note place="margin">Rom. 1. 7.</note> behold the light, to make your everlaſting darkneſſe the more grievous to you.</p>
+            <p>Therefore now while it is call<g ref="char:EOLhyphen"/>ed to day harden not your hearts; procraſtinate not your repent<g ref="char:EOLhyphen"/>ance,<note place="margin">Hoſe. 13. 14.</note> leaſt it be hid from your eyes: he that promiſeth to him that repenteth pardon doth not promiſe to him that ſins repent<g ref="char:EOLhyphen"/>ance. Preſume not, ye which have an houre to day, know not whether ye ſhall have life to
+<pb n="72" facs="tcp:191815:41"/> marrow: Wherefore brethren give diligence to make your cal<g ref="char:EOLhyphen"/>and election ſure: for if ye do<note place="margin">2 Pet. 1. 10.</note> theſe things ye ſhall never fall.</p>
+            <p>Draw neere to God with a<note place="margin">Heb. 10. 22.</note> true heart, in full aſſurance of faith, having your hearts ſprin<g ref="char:EOLhyphen"/>kled from an evill conſcience, and your bodies waſhed with pure water. Your Loyalty to the King commands you much, but your love to God will com<g ref="char:EOLhyphen"/>mand<note place="margin">Qui ſequntus es <hi>Davidem</hi> peccantem, ſe<g ref="char:EOLhyphen"/>quaris <hi>Davi<g ref="char:EOLhyphen"/>dem</hi> paeniten<g ref="char:EOLhyphen"/>tem. <hi>Ambr.</hi>
+               </note> you more: and indeed, ye cannot well honour the one, unleſſe ye feare the other. And as for my part, I muſt ſpeak to you as Saint <hi>Ambroſe</hi> did to <hi>Theodoſius</hi> excuſing a ſin becauſe <hi>David</hi> did the like; if any of you have followed me ſinning, I be<g ref="char:EOLhyphen"/>ſeech you to follow me repent<g ref="char:EOLhyphen"/>ing: and let your paſſing an act of oblivion on my ill example, put you in remembrance of my precept: for as <hi>David</hi> to <hi>Bathſheba,</hi>
+               <pb n="73" facs="tcp:191815:41"/> and <hi>Paul</hi> to the <hi>Galatians,</hi> ſo I to you. As the Lord liveth, that<note place="margin">1 Kings 1. 29.</note> hath redeemed my ſoule out of all diſtreſſe wherein I truſt I had<note place="margin">Gal. 4. 19.</note> the pangs of a new birth) I tra<g ref="char:EOLhyphen"/>vaile in birth againe till Chriſt be formed in you.</p>
+            <p>Now, to conclude, if any ſhall ſay <hi>Phyſician</hi> heale thy ſelf<note place="margin">Luke 4. 23.</note> or if with my former ſinnes I am upbraided as Saint <hi>Auguſtine</hi> was<note place="margin">In vita <hi>Aug.</hi>
+               </note> by the <hi>Donatiſts,</hi> give me leave to anſwere with that Reverend Father, ſaying, Looke how much they blame my former faults, by ſo much the more I commend and praiſe my <hi>Phyſician,</hi> who<note place="margin">Ier. 30. 13.</note> hath reſtored health unto me, and healed me of my wounds, becauſe they called me an Out<g ref="char:EOLhyphen"/>caſt. Therefore having good<note place="margin">2 Theſ. 2. 16.</note> hope through grace I will ſing unto the Lord as long I live: <hi>I</hi>
+               <note place="margin">Pſal. 104. 33, 34.</note> 
+               <hi>will ſing praiſe to my God while I have my being. My meditation of
+<pb n="74" facs="tcp:191815:42"/> him ſhall be ſweet; I will be glad in the Lord.</hi> I will labour to lighten<note place="margin">Duo ſuut tibi neceſſaria, conſcientia &amp; fama: conſti<g ref="char:EOLhyphen"/>encia propter rem: fama propter pro<g ref="char:EOLhyphen"/>ximum. <hi>Ambr.</hi> Epiſt. ad <hi>Conſtantin.</hi>
+               </note> in my life, and thunder in my doctrine; that by the one I might beate downe vice; by the other approve and improve ver<g ref="char:EOLhyphen"/>tue. Two things will I hold ne<g ref="char:EOLhyphen"/>ceſſary for me, towit, a good con<g ref="char:EOLhyphen"/>ſcience, &amp; a good name, the one, to edifie my neighbours, and the other to comfort my ſelf: in both will I ſeeke Gods glory, in nei<g ref="char:EOLhyphen"/>ther mine own praiſe. I deſire<note place="margin">Sic vivendum eſt, tanquam in conſpectu <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivamus: ſic cogitandum, tanquam ali<g ref="char:EOLhyphen"/>quis pectus intimum pro<g ref="char:EOLhyphen"/>ſpicere poſſit. <hi>Sen.</hi> lib. de <hi>Moribus.</hi>
+               </note> ſo to live as if mine enemies were ſtill beholding me. I will not as if I were borne under the Planet <hi>Mercurie</hi> (through Gods grace that worketh in me) be good with the good, and bad with the bad: but labour by a pure con<g ref="char:EOLhyphen"/>verſation to confirme the good, and convert the bad, or elſe eſchew them, for I may have a bad acquiantance, but I will ne<g ref="char:EOLhyphen"/>ver have an incorrigible compa<g ref="char:EOLhyphen"/>nion.
+<pb n="75" facs="tcp:191815:42"/> I will be afraid of ſinning, not as a ſervant, but as a ſonne: I will more feare the diſpleaſure of my God as a loving Father, then his dreadfull menaces as a ſevere Judge.</p>
+            <p>I will (by Gods aſſiſtance)<note place="margin">Heb. 10. 13.</note> hold faſt the profeſſion of our holy ſaith without wavering: and if any prevailing power ſhall vote in oppoſition to it, I will pray for their converſion, but not act with them to mine own con<g ref="char:EOLhyphen"/>fuſion. I had rather ſuffer for the Goſpel, then let the Goſpel ſuffer for me. God may give mine enemies leave to make no conſcience of my Ship-wracke, but I truſt he will never give me<note place="margin">1 Tim. 1. 19.</note> leave to make Ship-wracke of my conſcience. The teſtimonie whereof, is that I reſolve to <hi>feare</hi>
+               <note place="margin">Prov. 24. 21.</note> 
+               <hi>God and the King,</hi> and not meddle with them that are given to change. My ſoul longeth for
+<pb n="76" facs="tcp:191815:43"/> the conſolation of Iſrael in the reſtoring the beauty of holineſſe<note place="margin">Revel. 9.</note> in the ſanctuary, which is pollu<g ref="char:EOLhyphen"/>ted with Hereticks and Schiſ<g ref="char:EOLhyphen"/>maticks that cloud the glory of our Church as locuſts coming out of the ſmoke of the bottom<g ref="char:EOLhyphen"/>leſſe pit. As <hi>Solomon</hi> ſaith, the<note place="margin">Prov. 30. 27.</note> locuſts have no King: So theſe locuſts will have no mortal King on earth; but the King over them is the Angel of the bottomleſſe pit, <hi>whoſe name in the Hebrew is Abaddon, but in the Greeke Apol<g ref="char:EOLhyphen"/>lyon.</hi>
+               <note place="margin">Rev. 9. 11.</note> 
+               <hi>Be not thou of their councell O my ſoul, neither enter into their path, but avoid it, paſſe not by it, turne from it, and paſſe away.</hi>
+               <note place="margin">Prov. 4. 15.</note>
+            </p>
+            <p>My ambition ſhall be to im<g ref="char:EOLhyphen"/>brace truth, and my ſtudie to learne Chriſt, <hi>in whom are hid all the treaſures of wiſdome and knowledge</hi> as in a Divine celeſtial<note place="margin">Col. 2. 3.</note> Academie. I will looke on other learning as the trimming, but on
+<pb n="77" facs="tcp:191815:43"/> this alone as the veſture of my ſoul: other arts and ſciences are<note place="margin">Vae tibi <hi>Ari<g ref="char:EOLhyphen"/>ſtoteles</hi> lauda<g ref="char:EOLhyphen"/>ris ubi non es, &amp;c. cruci<g ref="char:EOLhyphen"/>aris ubi es. <hi>Aug.</hi>
+               </note> called <hi>liberales,</hi> but they cannot <hi>liberare me ab inferno,</hi> free me from hell: therefore that know<g ref="char:EOLhyphen"/>ledge ſhall be to me the moſt pre<g ref="char:EOLhyphen"/>cious which is the moſt gracious and ſaving. I care not by humane learning to be as a Meteor ad<g ref="char:EOLhyphen"/>vanced above the height of an ordinarie capacity: ſo I may by learning Chriſt, be as a Starre fixed in the Orbe of grace, above the beggarly Elements of natu<g ref="char:EOLhyphen"/>rall abilities. Neither do I ſpeake againſt humane learning (which I eſteeme) in the poſitive, but on<g ref="char:EOLhyphen"/>ly in the comparative. When I mention the Sublime Raptures of a ſoul which is Chriſts Pupill, the Sunne of naturall light and humane underſtanding muſt ſuf<g ref="char:EOLhyphen"/>fer a grand Eclipſe.</p>
+            <p>I will ever account him the beſt ſcholler who is the beſt
+<pb n="78" facs="tcp:191815:44"/> Chriſtian; preferring an Abce<g ref="char:EOLhyphen"/>darian in Gods O Economicks, before a profound Sophie in the worlds Politicks.</p>
+            <p>And concerning outward e<g ref="char:EOLhyphen"/>ſtate, I deem that the beſt which God declares by his diſpenſati<g ref="char:EOLhyphen"/>ons ſo to be: if heaven be entail<g ref="char:EOLhyphen"/>ed to my ſoul, I am rich enough for had I all things in the world without hope of that, I were ve<g ref="char:EOLhyphen"/>ry poor. Whilſt I am in the world, I will take heed that the world come not into me: I will eſteeme it as my ſervant, not my maſter; as my road, not my home; as a wilderneſſe, not a <hi>Ca<g ref="char:EOLhyphen"/>naan:</hi> the pleaſures thereof ſhall be my Vacation, not my Terme. God alone ſhall be the delight of my ſoule, who is the ſoul of my delight: and ſo do I deſire to fi<g ref="char:EOLhyphen"/>niſh my courſe in the Church Militant, that the High Prieſt, Jeſus Chriſt, may give me a bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="79" facs="tcp:191815:44"/> induction into the Church Triumphant. In confidence whereof, <hi>One thing have I deſired</hi>
+               <note place="margin">Pſal. 27. 4.</note> 
+               <hi>of the Lord, that will I ſeek after: that I may dwell in the houſe of the Lord all the daies of my life, to be<g ref="char:EOLhyphen"/>hold the beauty of the Lord, and to enquire in his Temple. I had ra<g ref="char:EOLhyphen"/>ther</hi>
+               <note place="margin">Pſal. 84. 10.</note> 
+               <hi>be a door-keeper in the houſe of my God, then to dwell in the tents of wickedneſſe:</hi> For <hi>I have put off</hi>
+               <note place="margin">Cant. 5. 3.</note> 
+               <hi>my coat, how ſhall I put it on? I have waſhed my feet, how ſhall I de<g ref="char:EOLhyphen"/>file them?</hi>
+            </p>
+            <closer>Gloria in excelſis Deo.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191815:45"/>
+            <pb facs="tcp:191815:45" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
